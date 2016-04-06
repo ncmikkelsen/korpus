@@ -1,0 +1,70 @@
+{
+    "beskrivelse": "Partier sidende i folketinget i perioden 2015-201?",
+    "folketingspartier": [
+        {
+            "liste": "A",
+            "parti": "Socialdemokraterne",
+            "mandater": "47"
+        },
+        {
+            "liste": "B",
+            "parti": "Radikale Venstre",
+            "mandater": "8"
+        },
+        {
+            "liste": "C",
+            "parti": "Det Konservative Folkeparti",
+            "mandater": "8"
+        },
+        {
+            "liste": "F",
+            "parti": "SF - Socialistisk Folkeparti",
+            "mandater": "7"
+        },
+        {
+            "liste": "I",
+            "parti": "Liberal Alliance",
+            "mandater": "13"
+        },
+        {
+            "liste": "O",
+            "parti": "Dansk Folkeparti",
+            "mandater": "37"
+        },
+        {
+            "liste": "V",
+            "parti": "Venstre - Danmarks liberale parti",
+            "mandater": "34" 
+        },
+        {
+            "liste": "Ø",
+            "parti": "Enhedslisten - De Rød-Grønne",
+            "mandater": "14"
+        },
+        {
+            "liste": "Å",
+            "parti": "Alternativet",
+            "mandater": "9"
+        },
+        {
+            "liste": "Færøerne",
+            "parti": "Det Republikanske Parti",
+            "mandater": "1"
+        },
+        {
+            "liste": "Færøerne",
+            "parti": "Socialdemokratiet",
+            "mandater": "1"
+        },
+        {
+            "liste": "Grønland",
+            "parti": "Siumut",
+            "mandater": "1"
+        },
+        {
+            "liste": "Grønland",
+            "parti": "Inuit Ataqatigiit",
+            "mandater": "1"
+        }
+    ]
+}
