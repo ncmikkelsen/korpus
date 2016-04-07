@@ -1,0 +1,63 @@
+{
+    "beskrivelse": "Danske banker med mere end 12 milliarder i kapital. fra: https://en.wikipedia.org/wiki/List_of_banks_in_Denmark",
+    "banker": [
+        {
+            "navn": "Danske Bank A/S"
+        },
+        {
+            "navn": "Jyske Bank A/S"
+        },
+        {
+            "navn": "Nordea Bank Danmark A/S"
+        },
+        {
+            "navn": "Nykredit Bank A/S"
+        },
+        {
+            "navn": "Sydbank A/S"
+        },
+        {
+            "navn": "Working capital DKK 12 billion or more."
+        },
+        {
+            "navn": "Alm. Brand Bank A/S"
+        },
+        {
+            "navn": "Arbejdernes Landsbank, Aktieselskab"
+        },
+        {
+            "navn": "Den Jyske Sparekasse"
+        },
+        {
+            "navn": "FIH Erhvervsbank A/S"
+        },
+        {
+            "navn": "Jutlander Bank A/S"
+        },
+        {
+            "navn": "Sparekassen Kronjylland"
+        },
+        {
+            "navn": "Lån & Spar Bank A/S"
+        },
+        {
+            "navn": "Ringkøbing Landbobank, Aktieselskab"
+        },
+        {
+            "navn": "Saxo Bank A/S"
+        },
+        {
+            "navn": "Sparekassen Sjælland"
+        },
+        {
+            "navn": "Spar Nord Bank A/S"
+        },
+        {
+            "navn": "Sparekassen Vendsyssel"
+        },
+        {
+            "navn": "Vestjysk Bank A/S"
+        }
+        
+    ]
+}
