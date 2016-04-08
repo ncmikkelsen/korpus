@@ -1,643 +1,721 @@
-{
-  "beskrivelse": "folketingsmedlemmer, minus stedfortrædere, senest opdateret 08/04/2016",
-  "folketingsmedlemmer": [
-{
-"navn": "Mette Abildgaard",
-"parti": "Det Konservative Folkeparti" 
-},
-
-{
-"navn": "Pia Adelsteen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Karina Adsbøl",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Alex Ahrendtsen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Yildiz Akdogan",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Simon Emil Ammitzbøll",
-"parti": "Liberal Alliance" 
-},
-
-{
-"navn": "Hans Andersen",
-"parti": "Venstre"
-},
-
-{
-"navn": "Christine Antorini",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Ida Auken",
-"parti": "Radikale Venstre" 
-},
-
-{
-"navn": "Carsten Bach",
-"parti": "Liberal Alliance" 
-},
-
-{
-"navn": "Britt Bager",
-"parti": "Venstre"
-},
-
-{
-"navn": "Lise Bech",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Pernille Bendixen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Kenneth Kristensen Berth",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Liselott Blixt",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Mette Bock",
-"parti": "Liberal Alliance" 
-},
-
-{
-"navn": "Erling Bonnesen",
-"parti": "Venstre"
-},
-
-{
-"navn": "Tilde Bork",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Trine Bramsen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Stine Brix",
-"parti": "Enhedslisten" 
-},
-
-{
-"navn": "Henrik Brodersen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Kirsten Brosbøl",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Morten Bødskov",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Bent Bøgsted",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Jan Rytkjær Callesen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Erik Christensen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "René Christensen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Villum Christensen",
-"parti": "Liberal Alliance" 
-},
-
-{
-"navn": "Kim Christiansen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Henrik Dahl",
-"parti": "Liberal Alliance" 
-},
-
-{
-"navn": "Jens Henrik Thulesen Dahl",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Jonas Dahl",
-"parti": "Socialistisk Folkeparti" 
-},
-
-{
-"navn": "Kristian Thulesen Dahl",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Lennart Damsbo-Andersen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Thomas Danielsen",
-"parti": "Venstre"
-},
-
-{
-"navn": "Mette Hjermind Dencker",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Mikkel Dencker",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Pelle Dragsted",
-"parti": "Enhedslisten" 
-},
-
-{
-"navn": "Karina Due",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Kaare Dybvad",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Pia Olsen Dyhr",
-"parti": "Socialistisk Folkeparti" 
-},
-
-{
-"navn": "Christina Egelund",
-"parti": "Liberal Alliance" 
-},
-
-{
-"navn": "Susanne Eilersen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Uffe Elbæk",
-"parti": "Alternativet" 
-},
-
-{
-"navn": "Louise Schack Elholm",
-"parti": "Venstre"
-},
-
- {
- "navn": "Karen Ellemann",
- "parti": "Venstre"
- },
-
-{
-"navn": "Jakob Ellemann-Jensen",
-"parti": "Venstre"
-},
-
-{
-"navn": "Benny Engelbrecht",
-"parti": "Socialdemokratiet"  
-},
-
-{
-"navn": "Jakob Engel-Schmidt",
-"parti": "Venstre"
-},
-
-{
-"navn": "Søren Espersen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Dennis Flydtkjær",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Eva Flyvholm",
-"parti": "Enhedslisten" 
-},
-
-{
-"navn": "Josephine Fock",
-"parti": "Alternativet" 
-},
-
-{
-"navn": "Claus Hjort Frederiksen",
-"parti": "Venstre"
-},
-
-{
-"navn": "Mette Frederiksen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "René Gade",
-"parti": "Alternativet" 
-},
-
-{
-"navn": "Søren Gade",
-"parti": "Venstre"
-},
-
-{
-"navn": "Torsten Gejl",
-"parti": "Alternativet" 
-},
-
-{
-"navn": "Maria Reumert Gjerding",
-"parti": "Enhedslisten" 
-},
-
-{
-"navn": "Mette Gjerskov",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Karin Gaardsted",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Ane Halsboe-Jørgensen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Aleqa Hammond",
-"parti": "Siumut" 
-},
-
-{
-"navn": "Claus Kvist Hansen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Eva Kjer Hansen",
-"parti": "Venstre"
-},
-
-{
-"navn": "Marlene Harpsøe",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Orla Hav",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Jane Heitmann",
-"parti": "Venstre"
-},
-
-{
-"navn": "Martin Henriksen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Preben Bang Henriksen",
-"parti": "Venstre"
-},
-
-{
-"navn": "Magnus Heunicke",
-"parti": "Socialdemokratiet"  
-},
-
-{
-"navn": "Carl Holst",
-"parti": "Venstre"
-},
-
-{
-"navn": "Høgni Hoydal",
-"parti": "Tjóðveldi" 
-},
-
-{
-"navn": "Henning Hyllested",
-"parti": "Enhedslisten" 
-},
-
-{
-"navn": "Nick Hækkerup",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Karsten Hønge",
-"parti": "Socialistisk Folkeparti" 
-},
-
-{
-"navn": "Bertel Haarder",
-"parti": "Venstre" 
-},
-
-{
-"navn": "Daniel Toft Jakobsen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Jeppe Jakobsen",
-"parti": "Dansk Folkeparti" 
-},
-
-{
-"navn": "Rasmus Jarlov",
-"parti": "Det Konservative Folkeparti" 
-},
-
-{
-"navn": "Marianne Jelved",
-"parti": "Radikale Venstre" 
-},
-
-{
-"navn": "Jacob Jensen",
-"parti": "Venstre"
-},
-
-{
-"navn": "Kristian Jensen",
-"parti": "Venstre" 
-},
-
-{
-"navn": "Leif Lahn Jensen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Michael Aastrup Jensen",
-"parti": "Venstre"
-},
-
-{
-"navn": "Mogens Jensen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Peter Juel Jensen",
-"parti": "Venstre"
-},
-
-{
-"navn": "Thomas Jensen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Jens Joel",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Jan Johansen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Christian Juhl",
-"parti": "Enhedslisten" 
-},
-
-{
-"navn": "Dan Jørgensen",
-"parti": "Socialdemokratiet" 
-},
-
-{
-"navn": "Jan E. Jørgensen",
-"parti": "Venstre"
-},
-
-{
-"navn": "May-Britt Kattrup",
-"parti": "Liberal Alliance" 
-},
-{"navn": "Naser Khader", "parti": "Det Konservative Folkeparti "},
- 
-{"navn": "Pia Kjærsgaard", "parti": "Dansk Folkeparti"},  
-
-{"navn": "Karen J. Klint", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Marcus Knuth", "parti": "Venstre"}, 
- 
-{"navn": "Simon Kollerup", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Astrid Krag", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Marie Krarup", "parti": "Dansk Folkeparti"},  
-
-{"navn": "Henrik Dam Kristensen", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Christian Langballe", "parti": "Dansk Folkeparti"},  
- 
-{"navn": "Rasmus Horn Langhoff", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Esben Lunde Larsen", "parti": "Venstre"}, 
-
-{"navn": "Henrik Sass Larsen", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Merete Dea Larsen", "parti": "Dansk Folkeparti"},  
-
-{"navn": "Aaja Chemnitz Larsen", "parti": "Inuit Ataqatigiit"}, 
-
-{"navn": "Karsten Lauritzen", "parti": "Venstre"}, 
- 
-{"navn": "Bjarne Laustsen", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Martin Lidegaard", "parti": "Radikale Venstre"},  
- 
-{"navn": "Lars Christian Lilleholt", "parti": "Venstre"}, 
-
-{"navn": "Annette Lind", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Laura Lindahl", "parti": "Liberal Alliance"},  
- 
-{"navn": "Kristian Pihl Lorentzen", "parti": "Venstre"}, 
-
-{"navn": "Rune Lund", "parti": "Enhedslisten"},  
- 
-{"navn": "Mogens Lykketoft", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Sophie Løhde", "parti": "Venstre"}, 
- 
-{"navn": "Christian Rabjerg Madsen", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Carolina Magdalene Maier", "parti": "Alternativet"},  
-
-{"navn": "Morten Marinus", "parti": "Dansk Folkeparti"},  
- 
-{"navn": "Jacob Mark", "parti": "Socialistisk Folkeparti"}, 
- 
-{"navn": "Anni Matthiesen", "parti": "Venstre"}, 
- 
-{"navn": "Roger Matthisen", "parti": "Alternativet"},  
- 
-{"navn": "Mai Mercado", "parti": "Det Konservative Folkeparti "},
-
-{"navn": "Jan Erik Messmann", "parti": "Dansk Folkeparti"},  
-
-{"navn": "Brian Mikkelsen", "parti": "Det Konservative Folkeparti "},
- 
-{"navn": "Leif Mikkelsen", "parti": "Liberal Alliance"},  
-
-{"navn": "Flemming Møller Mortensen", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Holger K. Nielsen", "parti": "Socialistisk Folkeparti"}, 
-
-{"navn": "Sofie Carsten Nielsen", "parti": "Radikale Venstre"},  
-
-{"navn": "Rasmus Nordqvist", "parti": "Alternativet"},  
- 
-{"navn": "Karin Nødgaard", "parti": "Dansk Folkeparti"},  
- 
-{"navn": "Ellen Trane Nørby", "parti": "Venstre"}, 
-
-{"navn": "Ole Birk Olesen", "parti": "Liberal Alliance"},  
-
-{"navn": "Joachim B. Olsen", "parti": "Liberal Alliance"},  
-
-{"navn": "Maja Panduro", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Torsten Schack Pedersen", "parti": "Venstre"}, 
-
-{"navn": "Jesper Petersen", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Søren Pind", "parti": "Venstre"}, 
- 
-{"navn": "Christian Poll", "parti": "Alternativet"},  
- 
-{"navn": "Ib Poulsen", "parti": "Dansk Folkeparti"},  
- 
-{"navn": "Lisbeth Bech Poulsen", "parti": "Socialistisk Folkeparti"}, 
-
-{"navn": "Peter Kofod Poulsen", "parti": "Dansk Folkeparti"},  
-
-{"navn": "Søren Pape Poulsen", "parti": "Det Konservative Folkeparti "},
- 
-{"navn": "Troels Lund Poulsen", "parti": "Venstre"}, 
-
-{"navn": "Rasmus Prehn", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Lars Aslan Rasmussen", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Lars Løkke Rasmussen", "parti": "Venstre"}, 
-
-{"navn": "Søren Egge Rasmussen", "parti": "Enhedslisten"},  
-
-{"navn": "Troels Ravn", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Mette Reissmann", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Merete Riisager", "parti": "Liberal Alliance"},   
-
-{"navn": "Lotte Rod", "parti": "Radikale Venstre"},  
-
-{"navn": "Pernille Rosenkrantz-Theil", "parti": "Socialdemokratiet"}, 
-
-{"navn": "Anders Samuelsen", "parti": "Liberal Alliance"},  
-
-{"navn": "Ulla Sandbæk", "parti": "Alternativet"},  
- 
-{"navn": "Hans Christian Schmidt", "parti": "Venstre"}, 
- 
-{"navn": "Johanne Schmidt-Nielsen", "parti": "Enhedslisten"},  
- 
-{"navn": "Pernille Schnoor", "parti": "Socialdemokratiet"},  
-
-{"navn": "Hans Kristian Skibby", "parti": "Dansk Folkeparti"},  
-
-{"navn": "Pernille Skipper", "parti": "Enhedslisten"},  
- 
-{"navn": "Julie Skovsby", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Sjúrður Skaale", "parti": "Javnaðarflokkurin"}, 
- 
-{"navn": "Peter Skaarup", "parti": "Dansk Folkeparti"},  
- 
-{"navn": "Zenia Stampe", "parti": "Radikale Venstre"},  
- 
-{"navn": "Andreas Steenberg", "parti": "Radikale Venstre"},  
- 
-{"navn": "Inger Støjberg", "parti": "Venstre"}, 
- 
-{"navn": "Jakob Sølvhøj", "parti": "Enhedslisten"},  
- 
-{"navn": "Søren Søndergaard", "parti": "Enhedslisten"},  
- 
-{"navn": "Finn Sørensen", "parti": "Enhedslisten"},  
- 
-{"navn": "Mattias Tesfaye", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Peter Hummelgaard Thomsen", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Trine Torp", "parti": "Socialistisk Folkeparti"}, 
- 
-{"navn": "Dorthe Ullemose", "parti": "Dansk Folkeparti"},  
- 
-{"navn": "Nikolaj Villumsen", "parti": "Enhedslisten"},  
-
-{"navn": "Nicolai Wammen", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Lea Wermelin", "parti": "Socialdemokratiet"}, 
- 
-{"navn": "Morten Østergaard", "parti": "Radikale Venstre"}  
-]
+{  
+    "beskrivelse":"folketingsmedlemmer, minus stedfortrædere, senest opdateret 08/04/2016",
+    "folketingsmedlemmer":[  
+        {  
+            "navn":"Mette Abildgaard",
+            "parti":"Det Konservative Folkeparti"
+        },
+        {  
+            "navn":"Pia Adelsteen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Karina Adsbøl",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Alex Ahrendtsen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Yildiz Akdogan",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Simon Emil Ammitzbøll",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Hans Andersen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Christine Antorini",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Ida Auken",
+            "parti":"Radikale Venstre"
+        },
+        {  
+            "navn":"Carsten Bach",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Britt Bager",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Lise Bech",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Pernille Bendixen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Kenneth Kristensen Berth",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Liselott Blixt",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Mette Bock",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Erling Bonnesen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Tilde Bork",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Trine Bramsen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Stine Brix",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Henrik Brodersen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Kirsten Brosbøl",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Morten Bødskov",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Bent Bøgsted",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Jan Rytkjær Callesen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Erik Christensen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"René Christensen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Villum Christensen",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Kim Christiansen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Henrik Dahl",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Jens Henrik Thulesen Dahl",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Jonas Dahl",
+            "parti":"Socialistisk Folkeparti"
+        },
+        {  
+            "navn":"Kristian Thulesen Dahl",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Lennart Damsbo-Andersen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Thomas Danielsen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Mette Hjermind Dencker",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Mikkel Dencker",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Pelle Dragsted",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Karina Due",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Kaare Dybvad",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Pia Olsen Dyhr",
+            "parti":"Socialistisk Folkeparti"
+        },
+        {  
+            "navn":"Christina Egelund",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Susanne Eilersen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Uffe Elbæk",
+            "parti":"Alternativet"
+        },
+        {  
+            "navn":"Louise Schack Elholm",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Karen Ellemann",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Jakob Ellemann-Jensen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Benny Engelbrecht",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Jakob Engel-Schmidt",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Søren Espersen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Dennis Flydtkjær",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Eva Flyvholm",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Josephine Fock",
+            "parti":"Alternativet"
+        },
+        {  
+            "navn":"Claus Hjort Frederiksen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Mette Frederiksen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"René Gade",
+            "parti":"Alternativet"
+        },
+        {  
+            "navn":"Søren Gade",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Torsten Gejl",
+            "parti":"Alternativet"
+        },
+        {  
+            "navn":"Maria Reumert Gjerding",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Mette Gjerskov",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Karin Gaardsted",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Ane Halsboe-Jørgensen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Aleqa Hammond",
+            "parti":"Siumut"
+        },
+        {  
+            "navn":"Claus Kvist Hansen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Eva Kjer Hansen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Marlene Harpsøe",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Orla Hav",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Jane Heitmann",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Martin Henriksen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Preben Bang Henriksen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Magnus Heunicke",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Carl Holst",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Høgni Hoydal",
+            "parti":"Tjóðveldi"
+        },
+        {  
+            "navn":"Henning Hyllested",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Nick Hækkerup",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Karsten Hønge",
+            "parti":"Socialistisk Folkeparti"
+        },
+        {  
+            "navn":"Bertel Haarder",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Daniel Toft Jakobsen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Jeppe Jakobsen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Rasmus Jarlov",
+            "parti":"Det Konservative Folkeparti"
+        },
+        {  
+            "navn":"Marianne Jelved",
+            "parti":"Radikale Venstre"
+        },
+        {  
+            "navn":"Jacob Jensen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Kristian Jensen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Leif Lahn Jensen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Michael Aastrup Jensen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Mogens Jensen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Peter Juel Jensen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Thomas Jensen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Jens Joel",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Jan Johansen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Christian Juhl",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Dan Jørgensen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Jan E. Jørgensen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"May-Britt Kattrup",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Naser Khader",
+            "parti":"Det Konservative Folkeparti "
+        },
+        {  
+            "navn":"Pia Kjærsgaard",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Karen J. Klint",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Marcus Knuth",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Simon Kollerup",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Astrid Krag",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Marie Krarup",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Henrik Dam Kristensen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Christian Langballe",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Rasmus Horn Langhoff",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Esben Lunde Larsen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Henrik Sass Larsen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Merete Dea Larsen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Aaja Chemnitz Larsen",
+            "parti":"Inuit Ataqatigiit"
+        },
+        {  
+            "navn":"Karsten Lauritzen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Bjarne Laustsen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Martin Lidegaard",
+            "parti":"Radikale Venstre"
+        },
+        {  
+            "navn":"Lars Christian Lilleholt",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Annette Lind",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Laura Lindahl",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Kristian Pihl Lorentzen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Rune Lund",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Mogens Lykketoft",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Sophie Løhde",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Christian Rabjerg Madsen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Carolina Magdalene Maier",
+            "parti":"Alternativet"
+        },
+        {  
+            "navn":"Morten Marinus",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Jacob Mark",
+            "parti":"Socialistisk Folkeparti"
+        },
+        {  
+            "navn":"Anni Matthiesen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Roger Matthisen",
+            "parti":"Alternativet"
+        },
+        {  
+            "navn":"Mai Mercado",
+            "parti":"Det Konservative Folkeparti "
+        },
+        {  
+            "navn":"Jan Erik Messmann",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Brian Mikkelsen",
+            "parti":"Det Konservative Folkeparti "
+        },
+        {  
+            "navn":"Leif Mikkelsen",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Flemming Møller Mortensen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Holger K. Nielsen",
+            "parti":"Socialistisk Folkeparti"
+        },
+        {  
+            "navn":"Sofie Carsten Nielsen",
+            "parti":"Radikale Venstre"
+        },
+        {  
+            "navn":"Rasmus Nordqvist",
+            "parti":"Alternativet"
+        },
+        {  
+            "navn":"Karin Nødgaard",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Ellen Trane Nørby",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Ole Birk Olesen",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Joachim B. Olsen",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Maja Panduro",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Torsten Schack Pedersen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Jesper Petersen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Søren Pind",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Christian Poll",
+            "parti":"Alternativet"
+        },
+        {  
+            "navn":"Ib Poulsen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Lisbeth Bech Poulsen",
+            "parti":"Socialistisk Folkeparti"
+        },
+        {  
+            "navn":"Peter Kofod Poulsen",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Søren Pape Poulsen",
+            "parti":"Det Konservative Folkeparti "
+        },
+        {  
+            "navn":"Troels Lund Poulsen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Rasmus Prehn",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Lars Aslan Rasmussen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Lars Løkke Rasmussen",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Søren Egge Rasmussen",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Troels Ravn",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Mette Reissmann",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Merete Riisager",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Lotte Rod",
+            "parti":"Radikale Venstre"
+        },
+        {  
+            "navn":"Pernille Rosenkrantz-Theil",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Anders Samuelsen",
+            "parti":"Liberal Alliance"
+        },
+        {  
+            "navn":"Ulla Sandbæk",
+            "parti":"Alternativet"
+        },
+        {  
+            "navn":"Hans Christian Schmidt",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Johanne Schmidt-Nielsen",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Pernille Schnoor",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Hans Kristian Skibby",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Pernille Skipper",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Julie Skovsby",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Sjúrður Skaale",
+            "parti":"Javnaðarflokkurin"
+        },
+        {  
+            "navn":"Peter Skaarup",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Zenia Stampe",
+            "parti":"Radikale Venstre"
+        },
+        {  
+            "navn":"Andreas Steenberg",
+            "parti":"Radikale Venstre"
+        },
+        {  
+            "navn":"Inger Støjberg",
+            "parti":"Venstre"
+        },
+        {  
+            "navn":"Jakob Sølvhøj",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Søren Søndergaard",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Finn Sørensen",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Mattias Tesfaye",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Peter Hummelgaard Thomsen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Trine Torp",
+            "parti":"Socialistisk Folkeparti"
+        },
+        {  
+            "navn":"Dorthe Ullemose",
+            "parti":"Dansk Folkeparti"
+        },
+        {  
+            "navn":"Nikolaj Villumsen",
+            "parti":"Enhedslisten"
+        },
+        {  
+            "navn":"Nicolai Wammen",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Lea Wermelin",
+            "parti":"Socialdemokratiet"
+        },
+        {  
+            "navn":"Morten Østergaard",
+            "parti":"Radikale Venstre"
+        }
+    ]
 }
