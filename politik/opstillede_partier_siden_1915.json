@@ -1,0 +1,258 @@
+{
+	"beskrivelse": "partier opstillede ved folketingsvalg siden 1915",
+	"kilde": "http://www.ft.dk/da/partier/om--politiske-partier/tal-og-fakta-om-partier",
+   "partier":[
+      {
+         "partinavn":"Alternativet",
+         "stiftet":"26. november 2013",
+         "valgt ind i folketinget":"2015-",
+         "opstillet":"2015-"
+      },
+      {
+         "partinavn":"Bondepartiet",
+         "stiftet":"18. januar 1939",
+         "valgt ind i folketinget":"1939-1945",
+         "opstillet":"1939, 1943"
+      },
+      {
+         "partinavn":"Centrum",
+         "stiftet":"April 1920",
+         "valgt ind i folketinget": null,
+         "opstillet":"1920"
+      },
+      {
+         "partinavn":"Centrum-Demokraterne",
+         "stiftet":"7. november 1973",
+         "valgt ind i folketinget":"1973-2001",
+         "opstillet":"1973-2007"
+      },
+      {
+         "partinavn":"DNSAP",
+         "stiftet":"1930",
+         "valgt ind i folketinget":"1939-1945",
+         "opstillet":"1932, 1935, 1939, 1943"
+      },
+      {
+         "partinavn":"Danmarks Kommunistiske Parti, DKP",
+         "stiftet":"9. november 1919",
+         "valgt ind i folketinget":"1932-1941, 1945-1960, 1973-1979",
+         "opstillet":"1924-1988"
+      },
+      {
+         "partinavn":"Danmarks Retsforbund",
+         "stiftet":"21. oktober 1919",
+         "valgt ind i folketinget":"1926-1960, 1973-1975, 1977-1981",
+         "opstillet":"1924-1987, 1990"
+      },
+      {
+         "partinavn":"Dansk Folkeparti",
+         "stiftet":"6. oktober 1995",
+         "valgt ind i folketinget":"1998-",
+         "opstillet":"1998-"
+      },
+      {
+         "partinavn":"Dansk Samling",
+         "stiftet":"18. oktober 1936",
+         "valgt ind i folketinget":"1943-1947",
+         "opstillet":"1939, 1943, 1945, 1947, 1953, 1964"
+      },
+      {
+         "partinavn":"Demokratisk Fornyelse",
+         "stiftet":"1994",
+         "valgt ind i folketinget":"-",
+         "opstillet":"1998"
+      },
+      {
+         "partinavn":"Enhedslisten - De Rød-Grønne",
+         "stiftet":"December 1989",
+         "valgt ind i folketinget":"1994-",
+         "opstillet":"1990-"
+      },
+      {
+         "partinavn":"Erhvervspartiet",
+         "stiftet":"1917",
+         "valgt ind i folketinget":"1918-1924",
+         "opstillet":"1918-1924"
+      },
+      {
+         "partinavn":"Fredspolitisk Folkeparti",
+         "stiftet":"16. december 1963",
+         "valgt ind i folketinget":"-",
+         "opstillet":"1964"
+      },
+      {
+         "partinavn":"Fremskridtspartiet",
+         "stiftet":"22. august 1972",
+         "valgt ind i folketinget":"1973-1999",
+         "opstillet":"1973-2007"
+      },
+      {
+         "partinavn":"Det Frie Folkeparti",
+         "stiftet":"16. maj 1934",
+         "valgt ind i folketinget":"1935-1945",
+         "opstillet":"1935, 1939, 1943"
+      },
+      {
+         "partinavn":"Det Frie Socialdemokrati",
+         "stiftet":"1920",
+         "valgt ind i folketinget": null,
+         "opstillet":"1920"
+      },
+      {
+         "partinavn":"Fællespartiet",
+         "stiftet":"24. december 1974",
+         "valgt ind i folketinget": null,
+         "opstillet":"1975"
+      },
+      {
+         "partinavn":"Fælles Kurs",
+         "stiftet":"19. april 1986",
+         "valgt ind i folketinget":"1987-1988",
+         "opstillet":"1987, 1988, 1990"
+      },
+      {
+         "partinavn":"De Grønne",
+         "stiftet":"16. oktober 1983",
+         "valgt ind i folketinget": null,
+         "opstillet":"1987, 1988, 1990"
+      },
+      {
+         "partinavn":"Hovedstadens Venstre",
+         "stiftet": null,
+         "valgt ind i folketinget": null,
+         "opstillet":"1947"
+      },
+      {
+         "partinavn":"Det Humanistiske Parti",
+         "stiftet":"1985",
+         "valgt ind i folketinget": null,
+         "opstillet":"1987, 1990"
+      },
+      {
+         "partinavn":"Det Konservative Folkeparti (opstillet som Højre ved folketingsvalget i 1915)",
+         "stiftet":"22. februar 1916",
+         "valgt ind i folketinget":"1916-",
+         "opstillet":"1918-"
+      },
+      {
+         "partinavn":"KAP",
+         "stiftet":"1968",
+         "valgt ind i folketinget": null,
+         "opstillet":"1979, 1981"
+      },
+      {
+         "partinavn":"Kristendemokraterne (før 25. oktober 2003 Kristeligt Folkeparti)",
+         "stiftet":"13. april 1970",
+         "valgt ind i folketinget":"1973-1994, 1998-2005",
+         "opstillet":"1971-"
+      },
+      {
+         "partinavn":"Landmandspartiet",
+         "stiftet":"Ca. 1920",
+         "valgt ind i folketinget":"-",
+         "opstillet":"1924"
+      },
+      {
+         "partinavn":"Liberal Alliance (før 28. august 2008 Ny Alliance)",
+         "stiftet":"7. maj 2007",
+         "valgt ind i folketinget":"2007-",
+         "opstillet":"2007-"
+      },
+      {
+         "partinavn":"Liberalt Centrum",
+         "stiftet":"9. oktober 1965",
+         "valgt ind i folketinget":"1966-1968",
+         "opstillet":"1966, 1968"
+      },
+      {
+         "partinavn":"Marxistisk-Leninistisk Parti",
+         "stiftet":"1978",
+         "valgt ind i folketinget": null,
+         "opstillet":"1984-1987"
+      },
+      {
+         "partinavn":"Minoritetspartiet",
+         "stiftet":"2000",
+         "valgt ind i folketinget": null,
+         "opstillet":"2005"
+      },
+      {
+         "partinavn":"Nationalt Samvirke",
+         "stiftet":"1. november 1938",
+         "valgt ind i folketinget": null,
+         "opstillet":"1939"
+      },
+      {
+         "partinavn":"Det Radikale Venstre",
+         "stiftet":"20. maj 1905",
+         "valgt ind i folketinget":"1905-",
+         "opstillet":"1905-"
+      },
+      {
+         "partinavn":"Pensionistpartiet",
+         "stiftet":"1976",
+         "valgt ind i folketinget": null,
+         "opstillet":"1977"
+      },
+      {
+         "partinavn":"Samfundspartiet (Sønderjydsk Parti)",
+         "stiftet": null,
+         "valgt ind i folketinget": null,
+         "opstillet":"1935"
+      },
+      {
+         "partinavn":"Selvstyrepartiet (Haderslev)",
+         "stiftet": null,
+         "valgt ind i folketinget": null,
+         "opstillet":"1926"
+      },
+      {
+         "partinavn":"Socialdemokratiet",
+         "stiftet":"21. juli 1871",
+         "valgt ind i folketinget":"1884-",
+         "opstillet":"1872-"
+      },
+      {
+         "partinavn":"Socialistisk Arbejderparti, SAP",
+         "stiftet":"1980",
+         "valgt ind i folketinget": null,
+         "opstillet":"1981-1987"
+      },
+      {
+         "partinavn":"SF - Socialistisk Folkeparti",
+         "stiftet":"15. februar 1959",
+         "valgt ind i folketinget":"1960-",
+         "opstillet":"1960-"
+      },
+      {
+         "partinavn":"Slesvigs Parti/Slesvigs V\u00e6lgerforening",
+         "stiftet": null,
+         "valgt ind i folketinget":"1920-1939, 1953-1964",
+         "opstillet":"1920-1939, 1947-1966, 1968-1971 (I 1950 og 1953: Hans Schmidt, uden for partierne, som repr\u00e6sentant for det tyske mindretal i Haderslev Amtskreds. I 1973, 1975 og 1977 fik Slesvigs Parti opstillet kandidater på CD's liste i Sønderjylland)"
+      },
+      {
+         "partinavn":"Trivselspartiet",
+         "stiftet":"1990",
+         "valgt ind i folketinget": null,
+         "opstillet":"Opstillede på F\u00e6lles Kurs' liste ved valget i 1990"
+      },
+      {
+         "partinavn":"De Uafh\u00e6ngige",
+         "stiftet":"1. september 1953",
+         "valgt ind i folketinget":"1960-1966",
+         "opstillet":"1953-1968"
+      },
+      {
+         "partinavn":"Venstre, Danmarks Liberale Parti (før 1963 Venstre)",
+         "stiftet":"30. juni 1870",
+         "valgt ind i folketinget":"1870-",
+         "opstillet":"1870-"
+      },
+      {
+         "partinavn":"Venstresocialisterne",
+         "stiftet":"17. december 1967",
+         "valgt ind i folketinget":"1968-1971, 1975-1987",
+         "opstillet":"1968-1988"
+      }
+   ]
+}
