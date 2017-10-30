@@ -435,12 +435,12 @@
 			"bydem.": "bevis"
 		},
 		{
-			"navnem.": "bevæge",
-			"nutid": "sig",
-			"datid": "bevæger",
-			"førnutid": "sig bevægede",
-			"førdatid": "sig har",
-			"bydem.": "bevæget" sig havde bevæget sig bevæg dig
+			"navnem.": "bevæge sig",
+			"nutid": "bevæger sig",
+			"datid": "bevægede sig",
+			"førnutid": "har bevæget sig",
+			"førdatid": "havde bevæget sig",
+			"bydem.": "bevæg dig"
 		},
 		{
 			"navnem.": "bide",
@@ -499,12 +499,12 @@
 			"bydem.": "bo"
 		},
 		{
-			"navnem.": "brede",
-			"nutid": "sig",
-			"datid": "breder",
-			"førnutid": "sig bredte",
-			"førdatid": "sig har",
-			"bydem.": "bredt" sig havde bredt sig bred dig
+			"navnem.": "brede sig",
+			"nutid": "breder sig",
+			"datid": "bredte sig",
+			"førnutid": "har bredt sig",
+			"førdatid": "havde bredt sig",
+			"bydem.": "bred dig"
 		},
 		{
 			"navnem.": "bringe",
@@ -667,12 +667,12 @@
 			"bydem.": "drøm"
 		},
 		{
-			"navnem.": "dukke",
-			"nutid": "op",
-			"datid": "dukker",
-			"førnutid": "op dukkede",
-			"førdatid": "op er",
-			"bydem.": "dukket" op var dukket op duk op
+			"navnem.": "dukke op",
+			"nutid": "dukker op",
+			"datid": "dukkede op",
+			"førnutid": "er dukket op",
+			"førdatid": "var dukket op",
+			"bydem.": "duk op"
 		},
 		{
 			"navnem.": "dække",
@@ -784,7 +784,7 @@
 			"datid": "fastslog",
 			"førnutid": "har fastslået",
 			"førdatid": "havde fastslået",
-			"bydem.": "slå" fast
+			"bydem.": "slå fast"
 		},
 		{
 			"navnem.": "fastsætte",
@@ -846,9 +846,9 @@
 			"navnem.": "flyve",
 			"nutid": "flyver",
 			"datid": "fløj",
-			"førnutid": "har /",
-			"førdatid": "er fløjet",
-			"bydem.": "havde" / var fløjet flyv
+			"førnutid": "er fløjet",
+			"førdatid": "var fløjet",
+			"bydem.": "flyv"
 		},
 		{
 			"navnem.": "fodre",
@@ -915,12 +915,12 @@
 			"bydem.": "forekom"
 		},
 		{
-			"navnem.": "forelske",
-			"nutid": "sig",
-			"datid": "forelsker",
-			"førnutid": "sig forelskede",
-			"førdatid": "sig har",
-			"bydem.": "forelsket" sig havde forelsket sig forelsk dig
+			"navnem.": "forelske sig",
+			"nutid": "forelsker sig",
+			"datid": "forelskede sig",
+			"førnutid": "har forelsket sig",
+			"førdatid": "havde forelsket sig",
+			"bydem.": "forelsk dig"
 		},
 		{
 			"navnem.": "forene",
@@ -939,20 +939,20 @@
 			"bydem.": "foreslå"
 		},
 		{
-			"navnem.": "forestille",
-			"nutid": "sig",
-			"datid": "forestiller",
-			"førnutid": "sig forestillede",
-			"førdatid": "sig har",
-			"bydem.": "forestillet" sig havde forestillet sig forestil dig
+			"navnem.": "forestille sig",
+			"nutid": "forestiller sig",
+			"datid": "forestillede sig",
+			"førnutid": "har forestillet sig",
+			"førdatid": "havde forestillet sig",
+			"bydem.": "forestil dig"
 		},
 		{
-			"navnem.": "foretage",
-			"nutid": "sig",
-			"datid": "foretager",
-			"førnutid": "sig foretog",
-			"førdatid": "sig har",
-			"bydem.": "foretaget" sig havde foretaget sig foretag dig
+			"navnem.": "foretage sig",
+			"nutid": "foretager sig",
+			"datid": "foretog sig",
+			"førnutid": "har foretaget sig",
+			"førdatid": "havde foretaget sig",
+			"bydem.": "foretag dig"
 		},
 		{
 			"navnem.": "foretrække",
@@ -979,12 +979,12 @@
 			"bydem.": "forhindr"
 		},
 		{
-			"navnem.": "forholde",
-			"nutid": "sig",
-			"datid": "forholder",
-			"førnutid": "sig forholdt",
-			"førdatid": "sig har",
-			"bydem.": "forholdt" sig havde forholdt sig forhold dig
+			"navnem.": "forholde sig",
+			"nutid": "forholder sig",
+			"datid": "forholdt sig",
+			"førnutid": "har forholdt sig",
+			"førdatid": "havde forholdt sig",
+			"bydem.": "forhold dig"
 		},
 		{
 			"navnem.": "forklare",
@@ -1078,9 +1078,9 @@
 			"navnem.": "fortsætte",
 			"nutid": "fortsætter",
 			"datid": "fortsatte",
-			"førnutid": "har /",
-			"førdatid": "er fortsat",
-			"bydem.": "havde" / var fortsat fortsæt
+			"førnutid": "har fortsat",
+			"førdatid": "havde fortsat",
+			"bydem.": "fortsæt"
 		},
 		{
 			"navnem.": "fortælle",
@@ -1094,9 +1094,9 @@
 			"navnem.": "forudsætte",
 			"nutid": "forudsætter",
 			"datid": "forudsatte",
-			"førnutid": "har /",
-			"førdatid": "erforudsat havde",
-			"bydem.": "/" var forudsat forudsæt
+			"førnutid": "har forudsat",
+			"førdatid": "havde forudsat",
+			"bydem.": "forudsæt"
 		},
 		{
 			"navnem.": "forvandle",
@@ -1283,12 +1283,12 @@
 			"bydem.": "gid"
 		},
 		{
-			"navnem.": "gifte",
-			"nutid": "sig",
-			"datid": "gifter",
-			"førnutid": "sig giftede",
-			"førdatid": "sig har",
-			"bydem.": "giftet" sig havde giftet sig gift dig
+			"navnem.": "gifte sig",
+			"nutid": "gifter sig",
+			"datid": "giftede sig",
+			"førnutid": "har giftet sig",
+			"førdatid": "havde giftet sig",
+			"bydem.": "gift dig"
 		},
 		{
 			"navnem.": "give",
@@ -1315,12 +1315,12 @@
 			"bydem.": "glid"
 		},
 		{
-			"navnem.": "glæde",
-			"nutid": "sig",
-			"datid": "glæder",
-			"førnutid": "sig glædede",
-			"førdatid": "sig har",
-			"bydem.": "glædet" sig havde glædet sig glæd dig
+			"navnem.": "glæde sig",
+			"nutid": "glæder sig",
+			"datid": "glædede sig",
+			"førnutid": "har glædet sig",
+			"førdatid": "havde glædet sig",
+			"bydem.": "glæd dig"
 		},
 		{
 			"navnem.": "godkende",
@@ -1366,9 +1366,9 @@
 			"navnem.": "gå",
 			"nutid": "går",
 			"datid": "gik",
-			"førnutid": "har /",
-			"førdatid": "er gået",
-			"bydem.": "havde" / var gået gå
+			"førnutid": "er gået",
+			"førdatid": "var gået",
+			"bydem.": "gå"
 		},
 		{
 			"navnem.": "hade",
@@ -1411,12 +1411,12 @@
 			"bydem.": "hent"
 		},
 		{
-			"navnem.": "henvende",
-			"nutid": "sig",
-			"datid": "henvender",
-			"førnutid": "sig henvendte",
-			"førdatid": "sig har",
-			"bydem.": "henvendt" sig havde henvendt sig henvend dig
+			"navnem.": "henvende sig",
+			"nutid": "henvender sig",
+			"datid": "henvendte sig",
+			"førnutid": "har henvendt sig",
+			"førdatid": "havde henvendt sig",
+			"bydem.": "henvend dig"
 		},
 		{
 			"navnem.": "henvise",
@@ -1470,9 +1470,9 @@
 			"navnem.": "hoppe",
 			"nutid": "hopper",
 			"datid": "hoppede",
-			"førnutid": "har /",
-			"førdatid": "er hoppet",
-			"bydem.": "havde" / var hoppet hop
+			"førnutid": "har hoppet",
+			"førdatid": "havde hoppet",
+			"bydem.": "hop"
 		},
 		{
 			"navnem.": "huske",
@@ -1483,12 +1483,12 @@
 			"bydem.": "husk"
 		},
 		{
-			"navnem.": "hvile",
-			"nutid": "sig",
-			"datid": "hviler",
-			"førnutid": "sig hvilede",
-			"førdatid": "sig har",
-			"bydem.": "hvilet" sig havde hvilet sig hvil dig
+			"navnem.": "hvile sig",
+			"nutid": "hviler sig",
+			"datid": "hvilede sig",
+			"førnutid": "har hvilet sig",
+			"førdatid": "havde hvilet sig",
+			"bydem.": "hvil dig"
 		},
 		{
 			"navnem.": "hviske",
@@ -1508,19 +1508,19 @@
 		},
 		{
 			"navnem.": "hænge",
-			"nutid": " (tr",
-			"datid": ".",
-			"førnutid": "hænger hængte",
-			"førdatid": "har hængt",
-			"bydem.": "havde" hængt hæng
+			"nutid": "hænger",
+			"datid": "hængte",
+			"førnutid": "har hængt",
+			"førdatid": "havde hængt",
+			"bydem.": "hæng"
 		},
 		{
 			"navnem.": "hænge",
-			"nutid": "(intr",
-			"datid": ".",
-			"førnutid": "hænger hang",
-			"førdatid": "har hængt",
-			"bydem.": "havde" hængt hæng
+			"nutid": "hænger",
+			"datid": "hang",
+			"førnutid": "har hængt",
+			"førdatid": "havde hængt",
+			"bydem.": "hæng"
 		},
 		{
 			"navnem.": "hævde",
@@ -1787,13 +1787,13 @@
 			"bydem.": "kommenter"
 		},
 		{
-			"navnem.": "koncentrere",
-			"nutid": "sig",
-			"datid": "koncentrerer",
-			"førnutid": "sig koncentrede",
-			"førdatid": "sig har",
-			"bydem.": "koncentreret" sig havde koncentreret sig koncentrer
-		},dig
+			"navnem.": "koncentrere sig",
+			"nutid": "koncentrerer sig",
+			"datid": "koncentrede sig",
+			"førnutid": "har koncentreret sig",
+			"førdatid": "havde koncentreret sig",
+			"bydem.": "koncentrer dig"
+		},
 		{
 			"navnem.": "konstatere",
 			"nutid": "konstaterer",
@@ -1851,12 +1851,12 @@
 			"bydem.": null
 		},
 		{
-			"navnem.": "kunne",
-			"nutid": "lide",
-			"datid": "kan",
-			"førnutid": "lide kunne",
-			"førdatid": "lide har",
-			"bydem.": "kunnet" lide havde kunnet lide
+			"navnem.": "kunne lide",
+			"nutid": "kan lide",
+			"datid": "kunne lide",
+			"førnutid": "har kunnet lide",
+			"førdatid": "havde kunnet lide",
+			"bydem.": null
 		},
 		{
 			"navnem.": "kysse",
@@ -1886,9 +1886,9 @@
 			"navnem.": "køre",
 			"nutid": "kører",
 			"datid": "kørte",
-			"førnutid": "har /",
-			"førdatid": "er kørt",
-			"bydem.": "havde" / var kørt kør
+			"førnutid": "har kørt",
+			"førdatid": "havde kørt",
+			"bydem.": "kør"
 		},
 		{
 			"navnem.": "lade",
@@ -1899,12 +1899,12 @@
 			"bydem.": "lad"
 		},
 		{
-			"navnem.": "lade",
-			"nutid": "som",
-			"datid": "om",
-			"førnutid": "lader som",
-			"førdatid": "om lod",
-			"bydem.": "som" om har ladet som om havde ladet som om lad som om
+			"navnem.": "lade som om",
+			"nutid": "lader som om",
+			"datid": "lod som om",
+			"førnutid": "har ladet som om",
+			"førdatid": "havde ladet som om",
+			"bydem.": "lad som om"
 		},
 		{
 			"navnem.": "lande",
@@ -1958,9 +1958,9 @@
 			"navnem.": "lette",
 			"nutid": "letter",
 			"datid": "lettede",
-			"førnutid": "har /",
-			"førdatid": "er lettet",
-			"bydem.": "havde" / er lettet let
+			"førnutid": "har lettet",
+			"førdatid": "havde lettet",
+			"bydem.": "let"
 		},
 		{
 			"navnem.": "leve",
@@ -1988,11 +1988,11 @@
 		},
 		{
 			"navnem.": "ligge",
-			"nutid": "(intr",
-			"datid": ")",
-			"førnutid": "ligger lå",
-			"førdatid": "har ligget",
-			"bydem.": "havde" ligget lig
+			"nutid": "ligger",
+			"datid": "lå",
+			"førnutid": "har ligget",
+			"førdatid": "havde ligget",
+			"bydem.": "lig"
 		},
 		{
 			"navnem.": "ligne",
@@ -2060,11 +2060,11 @@
 		},
 		{
 			"navnem.": "lægge",
-			"nutid": "(tr",
-			"datid": ")",
-			"førnutid": "lægger lagde",
-			"førdatid": "har lagt",
-			"bydem.": "havde" lagt læg
+			"nutid": "lægger",
+			"datid": "lagde",
+			"førnutid": "har lagt",
+			"førdatid": "havde lagt",
+			"bydem.": "læg"
 		},
 		{
 			"navnem.": "lære",
@@ -2086,9 +2086,9 @@
 			"navnem.": "løbe",
 			"nutid": "løber",
 			"datid": "løb",
-			"førnutid": "har /",
-			"førdatid": "er løbet",
-			"bydem.": "havde" / var løbet løb
+			"førnutid": "har løbet",
+			"førdatid": "havde løbet",
+			"bydem.": "løb"
 		},
 		{
 			"navnem.": "løfte",
@@ -2291,20 +2291,20 @@
 			"bydem.": "nægt"
 		},
 		{
-			"navnem.": "nærme",
-			"nutid": "sig",
-			"datid": "nærmer",
-			"førnutid": "sig nærmede",
-			"førdatid": "sig har",
-			"bydem.": "nærmet" sig havde nærmet sig nærm dig
+			"navnem.": "nærme sig",
+			"nutid": "nærmer sig",
+			"datid": "nærmede sig",
+			"førnutid": "har nærmet sig",
+			"førdatid": "havde nærmet sig",
+			"bydem.": "nærm dig"
 		},
 		{
-			"navnem.": "nøjes",
-			"nutid": "med",
-			"datid": "nøjes",
-			"førnutid": "med nøjedes",
-			"førdatid": "med har",
-			"bydem.": "nøjedes" havde nøjedes med nøjes med
+			"navnem.": "nøjes med",
+			"nutid": "nøjes med",
+			"datid": "nøjedes med",
+			"førnutid": "har nøjedes",
+			"førdatid": "havde nøjedes med",
+			"bydem.": "nøjes med"
 		},
 		{
 			"navnem.": "nå",
@@ -2318,9 +2318,9 @@
 			"navnem.": "offentliggøre",
 			"nutid": "offentliggør",
 			"datid": "offentliggjorde",
-			"førnutid": "har offentlig",
-			"førdatid":-"gjort havde",
-			"bydem.": "offentlig"-gjort offentlig-gør
+			"førnutid": "har offentliggjort",
+			"førdatid": " havde offentliggjort",
+			"bydem.": "offentliggør"
 		},
 		{
 			"navnem.": "omfatte",
@@ -2710,9 +2710,9 @@
 			"navnem.": "rejse",
 			"nutid": "rejser",
 			"datid": "rejste",
-			"førnutid": "har /",
-			"førdatid": "er rejst",
-			"bydem.": "havde" / var rejst rejs
+			"førnutid": "er rejst",
+			"førdatid": "var rejst",
+			"bydem.": "rejs"
 		},
 		{
 			"navnem.": "rense",
@@ -2726,9 +2726,9 @@
 			"navnem.": "repræsentere",
 			"nutid": "repræsenterer",
 			"datid": "repræsenterede",
-			"førnutid": "har repræsen",
-			"førdatid":-"teret havde",
-			"bydem.": "repræsen"-teret repræsen-ter
+			"førnutid": "har repræsenteret",
+			"førdatid": " havde repræsenteret",
+			"bydem.": "repræsenter"
 		},
 		{
 			"navnem.": "respektere",
@@ -2790,9 +2790,9 @@
 			"navnem.": "rulle",
 			"nutid": "ruller",
 			"datid": "rullede",
-			"førnutid": "har /",
-			"førdatid": "er rullet",
-			"bydem.": "havde" / var rullet rul
+			"førnutid": "har rullet",
+			"førdatid": "havde rullet",
+			"bydem.": "rul"
 		},
 		{
 			"navnem.": "rumme",
@@ -2878,9 +2878,9 @@
 			"navnem.": "sammenligne",
 			"nutid": "sammenligner",
 			"datid": "sammenlignede",
-			"førnutid": "har sammen",
-			"førdatid":-"lignet havde",
-			"bydem.": "sammen"-lignet sammen-lign
+			"førnutid": "har sammenlignet",
+			"førdatid": " havde sammenlignet",
+			"bydem.": "sammenlign"
 		},
 		{
 			"navnem.": "satse",
@@ -3094,9 +3094,9 @@
 			"navnem.": "slippe",
 			"nutid": "slipper",
 			"datid": "slap",
-			"førnutid": "har /",
-			"førdatid": "ersluppet havde",
-			"bydem.": "/" var sluppet slip
+			"førnutid": "har sluppet",
+			"førdatid": "havde sluppet",
+			"bydem.": "slip"
 		},
 		{
 			"navnem.": "slukke",
@@ -3214,9 +3214,9 @@
 			"navnem.": "springe",
 			"nutid": "springer",
 			"datid": "sprang",
-			"førnutid": "har /",
-			"førdatid": "er sprunget",
-			"bydem.": "havde" / var sprunget spring
+			"førnutid": "er sprunget",
+			"førdatid": "var sprunget",
+			"bydem.": "spring"
 		},
 		{
 			"navnem.": "spørge",
@@ -3238,17 +3238,17 @@
 			"navnem.": "standse",
 			"nutid": "standser",
 			"datid": "standsede",
-			"førnutid": "har /",
-			"førdatid": "er standset",
-			"bydem.": "havde" / var standset stands
+			"førnutid": "er standset",
+			"førdatid": "var standset",
+			"bydem.": "stands"
 		},
 		{
 			"navnem.": "starte",
 			"nutid": "starter",
 			"datid": "startede",
-			"førnutid": "har /",
-			"førdatid": "er startet",
-			"bydem.": "havde" / var startet start
+			"førnutid": "er startet",
+			"førdatid": "var startet",
+			"bydem.": "start"
 		},
 		{
 			"navnem.": "stemme",
@@ -3283,12 +3283,12 @@
 			"bydem.": "stik"
 		},
 		{
-			"navnem.": "stikke",
-			"nutid": "af",
-			"datid": "stikker",
-			"førnutid": "af stak",
-			"førdatid": "af er",
-			"bydem.": "stukket" af var stukket af stik af
+			"navnem.": "stikke af",
+			"nutid": "stikker af",
+			"datid": "stak af",
+			"førnutid": "er stukket af",
+			"førdatid": "var stukket af",
+			"bydem.": "stik af"
 		},
 		{
 			"navnem.": "stille",
@@ -3307,20 +3307,20 @@
 			"bydem.": "stjæl"
 		},
 		{
-			"navnem.": "stole",
-			"nutid": "på",
-			"datid": "stoler",
-			"førnutid": "på stolede",
-			"førdatid": "på har",
-			"bydem.": "stolet" på havde stolet på stol på
+			"navnem.": "stole på",
+			"nutid": "stoler på",
+			"datid": "stolede på",
+			"førnutid": "har stolet på",
+			"førdatid": "havde stolet på",
+			"bydem.": "stol på"
 		},
 		{
 			"navnem.": "stoppe",
 			"nutid": "stopper",
 			"datid": "stoppede",
-			"førnutid": "har /",
-			"førdatid": "er stoppet",
-			"bydem.": "havde" / var stoppet stop
+			"førnutid": "har stoppet",
+			"førdatid": "havde stoppet",
+			"bydem.": "stop"
 		},
 		{
 			"navnem.": "straffe",
@@ -3379,12 +3379,12 @@
 			"bydem.": "stød"
 		},
 		{
-			"navnem.": "støde",
-			"nutid": "på",
-			"datid": "støder",
-			"førnutid": "på stødte",
-			"førdatid": "på er",
-			"bydem.": "stødt" på var stødt på stød på
+			"navnem.": "stødepå",
+			"nutid": "støder på",
+			"datid": "stødte på",
+			"førnutid": "er stødt på",
+			"førdatid": "var stødt på",
+			"bydem.": "stød på"
 		},
 		{
 			"navnem.": "støtte",
@@ -3403,12 +3403,12 @@
 			"bydem.": "stå"
 		},
 		{
-			"navnem.": "stå",
-			"nutid": "op",
-			"datid": "står",
-			"førnutid": "op stod",
-			"førdatid": "op er",
-			"bydem.": "stået" op var stået op stå op
+			"navnem.": "stå op",
+			"nutid": "står op",
+			"datid": "stod op",
+			"førnutid": "er stået op",
+			"førdatid": "var stået op",
+			"bydem.": "stå op"
 		},
 		{
 			"navnem.": "svare",
@@ -3499,12 +3499,12 @@
 			"bydem.": "søg"
 		},
 		{
-			"navnem.": "sørge",
-			"nutid": "for",
-			"datid": "sørger",
-			"førnutid": "for sørgede",
-			"førdatid": "for har",
-			"bydem.": "sørget" for havde sørget for sørg for
+			"navnem.": "sørge for",
+			"nutid": "sørger for",
+			"datid": "sørgede for",
+			"førnutid": "har sørget for",
+			"førdatid": "havde sørget for",
+			"bydem.": "sørg for"
 		},
 		{
 			"navnem.": "tabe",
@@ -3523,12 +3523,12 @@
 			"bydem.": "tag"
 		},
 		{
-			"navnem.": "tage",
-			"nutid": "hjem",
-			"datid": "tager",
-			"førnutid": "hjem tog",
-			"førdatid": "hjem er",
-			"bydem.": "taget" hjem var taget hjem tag hjem
+			"navnem.": "tagehjem",
+			"nutid": "tager hjem",
+			"datid": "tog hjem",
+			"førnutid": "er taget hjem",
+			"førdatid": "var taget hjem",
+			"bydem.": "tag hjem"
 		},
 		{
 			"navnem.": "takke",
@@ -3659,12 +3659,12 @@
 			"bydem.": "træng"
 		},
 		{
-			"navnem.": "trænge",
-			"nutid": "ind",
-			"datid": "trænger",
-			"førnutid": "ind trængte",
-			"førdatid": "ind er",
-			"bydem.": "trængt" ind var trængt ind træng ind
+			"navnem.": "trænge ind",
+			"nutid": "trænger ind",
+			"datid": "trængte ind",
+			"førnutid": "er trængt ind",
+			"førdatid": "var trængt ind",
+			"bydem.": "træng ind"
 		},
 		{
 			"navnem.": "turde",
@@ -3884,11 +3884,11 @@
 		},
 		{
 			"navnem.": "understrege",
-			"nutid": "under",
-			"datid": "streger",
-			"førnutid": "understregede har",
-			"førdatid": "under-streget",
-			"bydem.": "havde" under-streget under-streg
+			"nutid": "understreger",
+			"datid": "understregede",
+			"førnutid": " har understreget",
+			"førdatid": "havde understreget",
+			"bydem.": "understreg"
 		},
 		{
 			"navnem.": "undersøge",
@@ -3907,12 +3907,12 @@
 			"bydem.": "undgå"
 		},
 		{
-			"navnem.": "undre",
-			"nutid": "sig",
-			"datid": "undrer",
-			"førnutid": "sig undrede",
-			"førdatid": "sig har",
-			"bydem.": "undret" sig havde undret sig undr dig
+			"navnem.": "undre sig",
+			"nutid": "undrer sig",
+			"datid": "undrede sig",
+			"førnutid": "har undret sig",
+			"førdatid": "havde undret sig",
+			"bydem.": "undr dig"
 		},
 		{
 			"navnem.": "vaccinere",
