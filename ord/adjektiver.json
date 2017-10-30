@@ -1,0 +1,1230 @@
+{
+	"kilde": "http://basby.dk/adjektivliste/adjlist.pdf",
+	"adjektiver": [
+		{
+			"n-form": "absolut",
+			"t-form": "absolut",
+			"e-form": "absolutte"
+		},
+		{
+			"n-form": "adskillig",
+			"t-form": "adskilligt",
+			"e-form": "adskillige"
+		},
+		{
+			"n-form": "afgørende",
+			"t-form": "afgørende",
+			"e-form": "afgørende"
+		},
+		{
+			"n-form": "afhængig",
+			"t-form": "afhængigt",
+			"e-form": "afhængige"
+		},
+		{
+			"n-form": "aktiv",
+			"t-form": "aktivt",
+			"e-form": "aktive"
+		},
+		{
+			"n-form": "al",
+			"t-form": "alt",
+			"e-form": "alle"
+		},
+		{
+			"n-form": "aktuel",
+			"t-form": "aktuelt",
+			"e-form": "aktuelle"
+		},
+		{
+			"n-form": "almindelig",
+			"t-form": "almindeligt",
+			"e-form": "almindelige"
+		},
+		{
+			"n-form": "alvorlig",
+			"t-form": "alvorligt",
+			"e-form": "alvorlige"
+		},
+		{
+			"n-form": "amerikansk",
+			"t-form": "amerikansk",
+			"e-form": "amerikanske"
+		},
+		{
+			"n-form": "anderledes",
+			"t-form": "anderledes",
+			"e-form": "anderledes"
+		},
+		{
+			"n-form": "bange",
+			"t-form": "bange",
+			"e-form": "bange"
+		},
+		{
+			"n-form": "bekendt",
+			"t-form": "bekendt",
+			"e-form": "bekendte"
+		},
+		{
+			"n-form": "berømt",
+			"t-form": "berømt",
+			"e-form": "berømte"
+		},
+		{
+			"n-form": "bestemt",
+			"t-form": "bestemt",
+			"e-form": "bestemte"
+		},
+		{
+			"n-form": "betydelig",
+			"t-form": "betydeligt",
+			"e-form": "betydelige"
+		},
+		{
+			"n-form": "bevidst",
+			"t-form": "bevidst",
+			"e-form": "bevidste"
+		},
+		{
+			"n-form": "billig",
+			"t-form": "billigt",
+			"e-form": "billige"
+		},
+		{
+			"n-form": "blød",
+			"t-form": "blødt",
+			"e-form": "bløde"
+		},
+		{
+			"n-form": "blå",
+			"t-form": "blåt",
+			"e-form": "blå"
+		},
+		{
+			"n-form": "borgerlig",
+			"t-form": "borgerligt",
+			"e-form": "borgerlige"
+		},
+		{
+			"n-form": "bred",
+			"t-form": "bredt",
+			"e-form": "brede"
+		},
+		{
+			"n-form": "brun",
+			"t-form": "brunt",
+			"e-form": "brune"
+		},
+		{
+			"n-form": "britisk",
+			"t-form": "britisk",
+			"e-form": "britiske"
+		},
+		{
+			"n-form": "central",
+			"t-form": "centralt",
+			"e-form": "centrale"
+		},
+		{
+			"n-form": "daglig",
+			"t-form": "dagligt",
+			"e-form": "daglige"
+		},
+		{
+			"n-form": "dansk",
+			"t-form": "dansk",
+			"e-form": "danske"
+		},
+		{
+			"n-form": "dejlig",
+			"t-form": "dejligt",
+			"e-form": "dejlige"
+		},
+		{
+			"n-form": "demokratisk",
+			"t-form": "demokratisk",
+			"e-form": "demokratiske"
+		},
+		{
+			"n-form": "direkte",
+			"t-form": "direkte",
+			"e-form": "direkte"
+		},
+		{
+			"n-form": "dobbelt",
+			"t-form": "dobbelt",
+			"e-form": "dobbelte"
+		},
+		{
+			"n-form": "dyb",
+			"t-form": "dybt",
+			"e-form": "dybe"
+		},
+		{
+			"n-form": "dygtig",
+			"t-form": "dygtigt",
+			"e-form": "dygtige"
+		},
+		{
+			"n-form": "dyr",
+			"t-form": "dyrt",
+			"e-form": "dyre"
+		},
+		{
+			"n-form": "død",
+			"t-form": "dødt",
+			"e-form": "døde"
+		},
+		{
+			"n-form": "dårlig",
+			"t-form": "dårligt",
+			"e-form": "dårlige"
+		},
+		{
+			"n-form": "effektiv",
+			"t-form": "effektivt",
+			"e-form": "effektive"
+		},
+		{
+			"n-form": "egen",
+			"t-form": "eget",
+			"e-form": "egne"
+		},
+		{
+			"n-form": "egentlig",
+			"t-form": "egentligt",
+			"e-form": "egentlige"
+		},
+		{
+			"n-form": "ekstra",
+			"t-form": "ekstra",
+			"e-form": "ekstra"
+		},
+		{
+			"n-form": "endelig",
+			"t-form": "endeligt",
+			"e-form": "endelige"
+		},
+		{
+			"n-form": "ene",
+			"t-form": "ene",
+			"e-form": "-"
+		}
+		,{
+			"n-form": "eneste",
+			"t-form": "eneste",
+			"e-form": "eneste"
+		},
+		{
+			"n-form": "engelsk",
+			"t-form": "engelsk",
+			"e-form": "engelske"
+		},
+		{
+			"n-form": "enig",
+			"t-form": "enigt",
+			"e-form": "enige"
+		},
+		{
+			"n-form": "enkel",
+			"t-form": "enkelt",
+			"e-form": "enkle"
+		},
+		{
+			"n-form": "enkelt",
+			"t-form": "enkelt",
+			"e-form": "enkelte"
+		},
+		{
+			"n-form": "enorm",
+			"t-form": "enormt",
+			"e-form": "enorme"
+		},
+		{
+			"n-form": "europæisk",
+			"t-form": "europæisk",
+			"e-form": "europæiske"
+		},
+		{
+			"n-form": "eventuel",
+			"t-form": "eventuelt",
+			"e-form": "eventuelle"
+		},
+		{
+			"n-form": "evig",
+			"t-form": "evigt",
+			"e-form": "evige"
+		},
+		{
+			"n-form": "fantastisk",
+			"t-form": "fantastisk",
+			"e-form": "fantastiske"
+		},
+		{
+			"n-form": "farlig",
+			"t-form": "farligt",
+			"e-form": "farlige"
+		},
+		{
+			"n-form": "fast",
+			"t-form": "fast",
+			"e-form": "faste"
+		},
+		{
+			"n-form": "fattig",
+			"t-form": "fattigt",
+			"e-form": "fattige"
+		},
+		{
+			"n-form": "fin",
+			"t-form": "fint",
+			"e-form": "fine"
+		},
+		{
+			"n-form": "flot",
+			"t-form": "flot",
+			"e-form": "flotte"
+		},
+		{
+			"n-form": "foreløbig",
+			"t-form": "foreløbigt",
+			"e-form": "foreløbige"
+		},
+		{
+			"n-form": "forkert",
+			"t-form": "forkert",
+			"e-form": "forkerte"
+		},
+		{
+			"n-form": "fornuftig",
+			"t-form": "fornuftigt",
+			"e-form": "fornuftige"
+		},
+		{
+			"n-form": "forsigtig",
+			"t-form": "forsigtigt",
+			"e-form": "forsigtige"
+		},
+		{
+			"n-form": "forskellig",
+			"t-form": "forskelligt",
+			"e-form": "forskellige"
+		},
+		{
+			"n-form": "fransk",
+			"t-form": "fransk",
+			"e-form": "franske"
+		},
+		{
+			"n-form": "fremmed",
+			"t-form": "fremmed",
+			"e-form": "fremmede"
+		},
+		{
+			"n-form": "fri",
+			"t-form": "frit",
+			"e-form": "frie"
+		},
+		{
+			"n-form": "frisk",
+			"t-form": "frisk",
+			"e-form": "friske"
+		},
+		{
+			"n-form": "frivillig",
+			"t-form": "frivilligt",
+			"e-form": "frivillige"
+		},
+		{
+			"n-form": "fuld",
+			"t-form": "fuldt",
+			"e-form": "fulde"
+		},
+		{
+			"n-form": "fuldstændig",
+			"t-form": "fuldstændigt",
+			"e-form": "fuldstændige"
+		},
+		{
+			"n-form": "fysisk",
+			"t-form": "fysisk",
+			"e-form": "fysiske"
+		},
+		{
+			"n-form": "fælles",
+			"t-form": "fælles",
+			"e-form": "fælles"
+		},
+		{
+			"n-form": "færdig",
+			"t-form": "færdigt",
+			"e-form": "færdige"
+		},
+		{
+			"n-form": "første",
+			"t-form": "første",
+			"e-form": "første"
+		},
+		{
+			"n-form": "gal",
+			"t-form": "galt",
+			"e-form": "gale"
+		},
+		{
+			"n-form": "gammel",
+			"t-form": "gammelt",
+			"e-form": "gamle"
+		},
+		{
+			"n-form": "generel",
+			"t-form": "generelt",
+			"e-form": "generelle"
+		},
+		{
+			"n-form": "gift",
+			"t-form": "gift",
+			"e-form": "gifte"
+		},
+		{
+			"n-form": "glad",
+			"t-form": "glad",
+			"e-form": "glade"
+		},
+		{
+			"n-form": "god",
+			"t-form": "godt",
+			"e-form": "gode"
+		},
+		{
+			"n-form": "gratis",
+			"t-form": "gratis",
+			"e-form": "gratis"
+		},
+		{
+			"n-form": "grov",
+			"t-form": "groft",
+			"e-form": "grove"
+		},
+		{
+			"n-form": "grundig",
+			"t-form": "grundigt",
+			"e-form": "grundige"
+		},
+		{
+			"n-form": "grøn",
+			"t-form": "grønt",
+			"e-form": "grønne"
+		},
+		{
+			"n-form": "gul",
+			"t-form": "gult",
+			"e-form": "gule"
+		},
+		{
+			"n-form": "halv",
+			"t-form": "halvt",
+			"e-form": "halve"
+		},
+		{
+			"n-form": "hel",
+			"t-form": "helt",
+			"e-form": "hele"
+		},
+		{
+			"n-form": "hellig",
+			"t-form": "helligt",
+			"e-form": "hellige"
+		},
+		{
+			"n-form": "historisk",
+			"t-form": "historisk",
+			"e-form": "historiske"
+		},
+		{
+			"n-form": "hurtig",
+			"t-form": "hurtigt",
+			"e-form": "hurtige"
+		},
+		{
+			"n-form": "hvid",
+			"t-form": "hvidt",
+			"e-form": "hvide"
+		},
+		{
+			"n-form": "høj",
+			"t-form": "højt",
+			"e-form": "høje"
+		},
+		{
+			"n-form": "hård",
+			"t-form": "hårdt",
+			"e-form": "hårde"
+		},
+		{
+			"n-form": "interessant",
+			"t-form": "interessant",
+			"e-form": "interessante"
+		},
+		{
+			"n-form": "international",
+			"t-form": "internationalt",
+			"e-form": "internationale"
+		},
+		{
+			"n-form": "italiensk",
+			"t-form": "italiensk",
+			"e-form": "italienske"
+		},
+		{
+			"n-form": "japansk",
+			"t-form": "japansk",
+			"e-form": "japanske"
+		},
+		{
+			"n-form": "kendt",
+			"t-form": "kendt",
+			"e-form": "kendte"
+		},
+		{
+			"n-form": "klar",
+			"t-form": "klart",
+			"e-form": "klare"
+		},
+		{
+			"n-form": "klassisk",
+			"t-form": "klassisk",
+			"e-form": "klassiske"
+		},
+		{
+			"n-form": "klog",
+			"t-form": "klogt",
+			"e-form": "kloge"
+		},
+		{
+			"n-form": "kold",
+			"t-form": "koldt",
+			"e-form": "kolde"
+		},
+		{
+			"n-form": "kommunal",
+			"t-form": "kommunalt",
+			"e-form": "kommunale"
+		},
+		{
+			"n-form": "kongelig",
+			"t-form": "kongeligt",
+			"e-form": "kongelige"
+		},
+		{
+			"n-form": "konkret",
+			"t-form": "konkret",
+			"e-form": "konkrete"
+		},
+		{
+			"n-form": "konservativ",
+			"t-form": "konservativt",
+			"e-form": "konservative"
+		},
+		{
+			"n-form": "kort",
+			"t-form": "kort",
+			"e-form": "korte"
+		},
+		{
+			"n-form": "kraftig",
+			"t-form": "kraftigt",
+			"e-form": "kraftige"
+		},
+		{
+			"n-form": "kulturel",
+			"t-form": "kulturelt",
+			"e-form": "kulturelle"
+		},
+		{
+			"n-form": "kvindelig",
+			"t-form": "kvindeligt",
+			"e-form": "kvindelige"
+		},
+		{
+			"n-form": "lang",
+			"t-form": "langt",
+			"e-form": "lange"
+		},
+		{
+			"n-form": "langsom",
+			"t-form": "langsomt",
+			"e-form": "langsomme"
+		},
+		{
+			"n-form": "lav",
+			"t-form": "lavt",
+			"e-form": "lave"
+		},
+		{
+			"n-form": "let",
+			"t-form": "let",
+			"e-form": "lette"
+		},
+		{
+			"n-form": "levende",
+			"t-form": "levende",
+			"e-form": "levende"
+		},
+		{
+			"n-form": "lilla",
+			"t-form": "lilla",
+			"e-form": "lilla"
+		},
+		{
+			"n-form": "lille",
+			"t-form": "lille",
+			"e-form": "småt"
+		},
+		{
+			"n-form": "lokal",
+			"t-form": "lokalt",
+			"e-form": "lokale"
+		},
+		{
+			"n-form": "lykkelig",
+			"t-form": "lykkeligt",
+			"e-form": "lykkelige"
+		},
+		{
+			"n-form": "løs",
+			"t-form": "løst",
+			"e-form": "løse"
+		},
+		{
+			"n-form": "menneskelig",
+			"t-form": "menneskeligt",
+			"e-form": "menneskelige"
+		},
+		{
+			"n-form": "militær",
+			"t-form": "militært",
+			"e-form": "militære"
+		},
+		{
+			"n-form": "moderne",
+			"t-form": "moderne",
+			"e-form": "moderne"
+		},
+		{
+			"n-form": "modsat",
+			"t-form": "modsat",
+			"e-form": "modsatte"
+		},
+		{
+			"n-form": "mulig",
+			"t-form": "muligt",
+			"e-form": "mulige"
+		},
+		{
+			"n-form": "mærkelig",
+			"t-form": "mærkeligt",
+			"e-form": "mærkelige"
+		},
+		{
+			"n-form": "mørk",
+			"t-form": "mørkt",
+			"e-form": "mørke"
+		},
+		{
+			"n-form": "national",
+			"t-form": "nationalt",
+			"e-form": "nationale"
+		},
+		{
+			"n-form": "naturlig",
+			"t-form": "naturligt",
+			"e-form": "naturlige"
+		},
+		{
+			"n-form": "nem",
+			"t-form": "nemt",
+			"e-form": "nemme"
+		},
+		{
+			"n-form": "nordisk",
+			"t-form": "nordisk",
+			"e-form": "nordiske"
+		},
+		{
+			"n-form": "normal",
+			"t-form": "normalt",
+			"e-form": "normale"
+		},
+		{
+			"n-form": "norsk",
+			"t-form": "norsk",
+			"e-form": "norske"
+		},
+		{
+			"n-form": "nuværende",
+			"t-form": "nuværende",
+			"e-form": "nuværende"
+		},
+		{
+			"n-form": "ny",
+			"t-form": "nyt",
+			"e-form": "nye"
+		},
+		{
+			"n-form": "nylig",
+			"t-form": "nyligt",
+			"e-form": "nylige"
+		},
+		{
+			"n-form": "nær",
+			"t-form": "nært",
+			"e-form": "nære"
+		},
+		{
+			"n-form": "næste",
+			"t-form": "næste",
+			"e-form": "næste"
+		},
+		{
+			"n-form": "nødvendig",
+			"t-form": "nødvendigt",
+			"e-form": "nødvendige"
+		},
+		{
+			"n-form": "offentlig",
+			"t-form": "offentligt",
+			"e-form": "offentlige"
+		},
+		{
+			"n-form": "officiel",
+			"t-form": "officielt",
+			"e-form": "officielle"
+		},
+		{
+			"n-form": "omfattende",
+			"t-form": "omfattende",
+			"e-form": "omfattende"
+		},
+		{
+			"n-form": "ond",
+			"t-form": "ondt",
+			"e-form": "onde"
+		},
+		{
+			"n-form": "opmærksom",
+			"t-form": "opmærksomt",
+			"e-form": "opmærksomme"
+		},
+		{
+			"n-form": "oprindelig",
+			"t-form": "oprindeligt",
+			"e-form": "oprindelige"
+		},
+		{
+			"n-form": "orange",
+			"t-form": "orange",
+			"e-form": "orange"
+		},
+		{
+			"n-form": "ordentlig",
+			"t-form": "ordentligt",
+			"e-form": "ordentlige"
+		},
+		{
+			"n-form": "parat",
+			"t-form": "parat",
+			"e-form": "parate"
+		},
+		{
+			"n-form": "personlig",
+			"t-form": "personligt",
+			"e-form": "personlige"
+		},
+		{
+			"n-form": "pink",
+			"t-form": "pink",
+			"e-form": "pink"
+		},
+		{
+			"n-form": "politisk",
+			"t-form": "politisk",
+			"e-form": "politiske"
+		},
+		{
+			"n-form": "populær",
+			"t-form": "populært",
+			"e-form": "populære"
+		},
+		{
+			"n-form": "positiv",
+			"t-form": "positivt",
+			"e-form": "positive"
+		},
+		{
+			"n-form": "praktisk",
+			"t-form": "praktisk",
+			"e-form": "praktiske"
+		},
+		{
+			"n-form": "privat",
+			"t-form": "privat",
+			"e-form": "private"
+		},
+		{
+			"n-form": "professionel",
+			"t-form": "professionelt",
+			"e-form": "professionelle"
+		},
+		{
+			"n-form": "psykisk",
+			"t-form": "psykisk",
+			"e-form": "psykiske"
+		},
+		{
+			"n-form": "pæn",
+			"t-form": "pænt",
+			"e-form": "pæne"
+		},
+		{
+			"n-form": "pågældende",
+			"t-form": "pågældende",
+			"e-form": "pågældende"
+		},
+		{
+			"n-form": "radikal",
+			"t-form": "radikalt",
+			"e-form": "radikale"
+		},
+		{
+			"n-form": "rar",
+			"t-form": "rart",
+			"e-form": "rare"
+		},
+		{
+			"n-form": "reel",
+			"t-form": "reelt",
+			"e-form": "reelle"
+		},
+		{
+			"n-form": "ren",
+			"t-form": "rent",
+			"e-form": "rene"
+		},
+		{
+			"n-form": "rig",
+			"t-form": "rigt",
+			"e-form": "rige"
+		},
+		{
+			"n-form": "rigtig",
+			"t-form": "rigtigt",
+			"e-form": "rigtige"
+		},
+		{
+			"n-form": "rimelig",
+			"t-form": "rimeligt",
+			"e-form": "rimelige"
+		},
+		{
+			"n-form": "rolig",
+			"t-form": "roligt",
+			"e-form": "rolige"
+		},
+		{
+			"n-form": "russisk",
+			"t-form": "russisk",
+			"e-form": "russiske"
+		},
+		{
+			"n-form": "rød",
+			"t-form": "rødt",
+			"e-form": "røde"
+		},
+		{
+			"n-form": "samme",
+			"t-form": "samme",
+			"e-form": "samme"
+		},
+		{
+			"n-form": "sand",
+			"t-form": "sandt",
+			"e-form": "sande"
+		},
+		{
+			"n-form": "seksuel",
+			"t-form": "seksuelt",
+			"e-form": "seksuelle"
+		},
+		{
+			"n-form": "selve",
+			"t-form": "selve",
+			"e-form": "selve"
+		},
+		{
+			"n-form": "selvstændig",
+			"t-form": "selvstændigt",
+			"e-form": "selvstændige"
+		},
+		{
+			"n-form": "sen",
+			"t-form": "sent",
+			"e-form": "sene"
+		},
+		{
+			"n-form": "sikker",
+			"t-form": "sikkert",
+			"e-form": "sikre"
+		},
+		{
+			"n-form": "simpel",
+			"t-form": "simpelt",
+			"e-form": "simple"
+		},
+		{
+			"n-form": "sjov",
+			"t-form": "sjovt",
+			"e-form": "sjove"
+		},
+		{
+			"n-form": "sjælden",
+			"t-form": "sjældent",
+			"e-form": "sjældne"
+		},
+		{
+			"n-form": "skarp",
+			"t-form": "skarpt",
+			"e-form": "skarpe"
+		},
+		{
+			"n-form": "slem",
+			"t-form": "slemt",
+			"e-form": "slemme"
+		},
+		{
+			"n-form": "smuk",
+			"t-form": "smukt",
+			"e-form": "smukke"
+		},
+		{
+			"n-form": "social",
+			"t-form": "socialt",
+			"e-form": "sociale"
+		},
+		{
+			"n-form": "sort",
+			"t-form": "sort",
+			"e-form": "sorte"
+		},
+		{
+			"n-form": "speciel",
+			"t-form": "specielt",
+			"e-form": "specielle"
+		},
+		{
+			"n-form": "spændende",
+			"t-form": "spændende",
+			"e-form": "spændende"
+		},
+		{
+			"n-form": "stor",
+			"t-form": "stort",
+			"e-form": "store"
+		},
+		{
+			"n-form": "stærk",
+			"t-form": "stærkt",
+			"e-form": "stærke"
+		},
+		{
+			"n-form": "sund",
+			"t-form": "sundt",
+			"e-form": "sunde"
+		},
+		{
+			"n-form": "svag",
+			"t-form": "svagt",
+			"e-form": "svage"
+		},
+		{
+			"n-form": "svensk",
+			"t-form": "svensk",
+			"e-form": "svenske"
+		},
+		{
+			"n-form": "svær",
+			"t-form": "svært",
+			"e-form": "svære"
+		},
+		{
+			"n-form": "syg",
+			"t-form": "sygt",
+			"e-form": "syge"
+		},
+		{
+			"n-form": "særlig",
+			"t-form": "særligt",
+			"e-form": "særlige"
+		},
+		{
+			"n-form": "sød",
+			"t-form": "sødt",
+			"e-form": "søde"
+		},
+		{
+			"n-form": "sådan",
+			"t-form": "sådant",
+			"e-form": "sådanne"
+		},
+		{
+			"n-form": "såkaldt",
+			"t-form": "såkaldt",
+			"e-form": "såkaldte"
+		},
+		{
+			"n-form": "teknisk",
+			"t-form": "teknisk",
+			"e-form": "tekniske"
+		},
+		{
+			"n-form": "tidlig",
+			"t-form": "tidligt",
+			"e-form": "tidlige"
+		},
+		{
+			"n-form": "tilfreds",
+			"t-form": "tilfreds",
+			"e-form": "tilfredse"
+		},
+		{
+			"n-form": "tilstrækkelig",
+			"t-form": "tilstrækkeligt",
+			"e-form": "tilstrækkelige"
+		},
+		{
+			"n-form": "tilsvarende",
+			"t-form": "tilsvarende",
+			"e-form": "tilsvarende"
+		},
+		{
+			"n-form": "tilsyneladende",
+			"t-form": "tilsyneladende",
+			"e-form": "tilsyneladende"
+		},
+		{
+			"n-form": "tom",
+			"t-form": "tomt",
+			"e-form": "tomme"
+		},
+		{
+			"n-form": "total",
+			"t-form": "totalt",
+			"e-form": "totale"
+		},
+		{
+			"n-form": "traditionel",
+			"t-form": "traditionelt",
+			"e-form": "traditionelle"
+		},
+		{
+			"n-form": "travl",
+			"t-form": "travlt",
+			"e-form": "travle"
+		},
+		{
+			"n-form": "træt",
+			"t-form": "træt",
+			"e-form": "trætte"
+		},
+		{
+			"n-form": "tung",
+			"t-form": "tungt",
+			"e-form": "tunge"
+		},
+		{
+			"n-form": "tydelig",
+			"t-form": "tydeligt",
+			"e-form": "tydelige"
+		},
+		{
+			"n-form": "tyk",
+			"t-form": "tykt",
+			"e-form": "tykke"
+		},
+		{
+			"n-form": "tynd",
+			"t-form": "tyndt",
+			"e-form": "tynde"
+		},
+		{
+			"n-form": "typisk",
+			"t-form": "typisk",
+			"e-form": "typiske"
+		},
+		{
+			"n-form": "tysk",
+			"t-form": "tysk",
+			"e-form": "tyske"
+		},
+		{
+			"n-form": "tæt",
+			"t-form": "tæt",
+			"e-form": "tætte"
+		},
+		{
+			"n-form": "tør",
+			"t-form": "tørt",
+			"e-form": "tørre"
+		},
+		{
+			"n-form": "udenlandsk",
+			"t-form": "udenlandsk",
+			"e-form": "udenlandske"
+		},
+		{
+			"n-form": "udmærket",
+			"t-form": "udmærket",
+			"e-form": "udmærkede"
+		},
+		{
+			"n-form": "ukendt",
+			"t-form": "ukendt",
+			"e-form": "ukendte"
+		},
+		{
+			"n-form": "umiddelbar",
+			"t-form": "umiddelbart",
+			"e-form": "umiddelbare"
+		},
+		{
+			"n-form": "umulig",
+			"t-form": "umuligt",
+			"e-form": "umulige"
+		},
+		{
+			"n-form": "ung",
+			"t-form": "ungt",
+			"e-form": "unge"
+		},
+		{
+			"n-form": "usædvanlig",
+			"t-form": "usædvanligt",
+			"e-form": "usædvanlige"
+		},
+		{
+			"n-form": "utrolig",
+			"t-form": "utroligt",
+			"e-form": "utrolige"
+		},
+		{
+			"n-form": "vanskelig",
+			"t-form": "vanskeligt",
+			"e-form": "vanskelige"
+		},
+		{
+			"n-form": "varm",
+			"t-form": "varmt",
+			"e-form": "varme"
+		},
+		{
+			"n-form": "velkommen",
+			"t-form": "velkomment",
+			"e-form": "velkomne"
+		},
+		{
+			"n-form": "venlig",
+			"t-form": "venligt",
+			"e-form": "venlige"
+		},
+		{
+			"n-form": "vestlig",
+			"t-form": "vestligt",
+			"e-form": "vestlige"
+		},
+		{
+			"n-form": "vigtig",
+			"t-form": "vigtigt",
+			"e-form": "vigtige"
+		},
+		{
+			"n-form": "vild",
+			"t-form": "vildt",
+			"e-form": "vilde"
+		},
+		{
+			"n-form": "violet",
+			"t-form": "violet",
+			"e-form": "violette"
+		},
+		{
+			"n-form": "virkelig",
+			"t-form": "virkeligt",
+			"e-form": "virkelige"
+		},
+		{
+			"n-form": "vis",
+			"t-form": "vist",
+			"e-form": "vise"
+		},
+		{
+			"n-form": "voksen",
+			"t-form": "voksent",
+			"e-form": "voksne"
+		},
+		{
+			"n-form": "voldsom",
+			"t-form": "voldsomt",
+			"e-form": "voldsomme"
+		},
+		{
+			"n-form": "vred",
+			"t-form": "vredt",
+			"e-form": "vrede"
+		},
+		{
+			"n-form": "værd",
+			"t-form": "værd",
+			"e-form": "værd"
+		},
+		{
+			"n-form": "væsentlig",
+			"t-form": "væsentligt",
+			"e-form": "væsentlige"
+		},
+		{
+			"n-form": "yderlig",
+			"t-form": "yderligt",
+			"e-form": "yderlige"
+		},
+		{
+			"n-form": "ægte",
+			"t-form": "ægte",
+			"e-form": "ægte"
+		},
+		{
+			"n-form": "økonomisk",
+			"t-form": "økonomisk",
+			"e-form": "økonomiske"
+		},
+		{
+			"n-form": "øvrig",
+			"t-form": "øvrigt",
+			"e-form": "øvrige"
+		},
+		{
+			"n-form": "åben",
+			"t-form": "åbent",
+			"e-form": "åbne"
+		},
+		{
+			"n-form": "åbenbar",
+			"t-form": "åbenbart",
+			"e-form": "åbenbare"
+		},
+		{
+			"n-form": "årlig",
+			"t-form": "årligt",
+			"e-form": "årlige"
+		}
+	]
+}
