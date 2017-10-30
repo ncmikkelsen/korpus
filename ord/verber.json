@@ -1,0 +1,4126 @@
+{
+	"beskrivelse": "en liste af 515 danske verber i navnemåde, nutid, datid, førnutid, førdatid, og bydemåde",
+	"kilde": "http://basby.dk/verbliste/verbeliste1.html",
+	"verber": [
+		{
+			"navnem.": "acceptere",
+			"nutid": "accepterer",
+			"datid": "accepterede",
+			"førnutid": "har accepteret",
+			"førdatid": "havde accepteret",
+			"bydem.": "accepter"
+		},
+		{
+			"navnem.": "adskille",
+			"nutid": "adskiller",
+			"datid": "adskilte",
+			"førnutid": "har adskilt",
+			"førdatid": "havde adskilt",
+			"bydem.": "adskil"
+		},
+		{
+			"navnem.": "advare",
+			"nutid": "advarer",
+			"datid": "advarede",
+			"førnutid": "har advaret",
+			"førdatid": "havde advaret",
+			"bydem.": "advar"
+		},
+		{
+			"navnem.": "afbryde",
+			"nutid": "afbryder",
+			"datid": "afbrød",
+			"førnutid": "har afbrudt",
+			"førdatid": "havde afbrudt",
+			"bydem.": "afbryd"
+		},
+		{
+			"navnem.": "afgive",
+			"nutid": "afgiver",
+			"datid": "afgav",
+			"førnutid": "har afgivet",
+			"førdatid": "havde afgivet",
+			"bydem.": "afgiv"
+		},
+		{
+			"navnem.": "afgøre",
+			"nutid": "afgør",
+			"datid": "afgjorde",
+			"førnutid": "har afgjort",
+			"førdatid": "havde afgjort",
+			"bydem.": "afgør"
+		},
+		{
+			"navnem.": "aflevere",
+			"nutid": "afleverer",
+			"datid": "afleverede",
+			"førnutid": "har afleveret",
+			"førdatid": "havde afleveret",
+			"bydem.": "aflever"
+		},
+		{
+			"navnem.": "aflyse",
+			"nutid": "aflyser",
+			"datid": "aflyste",
+			"førnutid": "har aflyst",
+			"førdatid": "havde aflyst",
+			"bydem.": "aflys"
+		},
+		{
+			"navnem.": "afløse",
+			"nutid": "afløser",
+			"datid": "afløste",
+			"førnutid": "har afløst",
+			"førdatid": "havde afløst",
+			"bydem.": "afløs"
+		},
+		{
+			"navnem.": "afskaffe",
+			"nutid": "afskaffer",
+			"datid": "afskaffede",
+			"førnutid": "har afskaffet",
+			"førdatid": "havde afskaffet",
+			"bydem.": "afskaf"
+		},
+		{
+			"navnem.": "afslutte",
+			"nutid": "afslutter",
+			"datid": "afsluttede",
+			"førnutid": "har afsluttet",
+			"førdatid": "havde afsluttet",
+			"bydem.": "afslut"
+		},
+		{
+			"navnem.": "afvise",
+			"nutid": "afviser",
+			"datid": "afviste",
+			"førnutid": "har afvist",
+			"førdatid": "havde afvist",
+			"bydem.": "afvis"
+		},
+		{
+			"navnem.": "anbefale",
+			"nutid": "anbefaler",
+			"datid": "anbefalede",
+			"førnutid": "har anbefalet",
+			"førdatid": "havde anbefalet",
+			"bydem.": "anbefal"
+		},
+		{
+			"navnem.": "anbringe",
+			"nutid": "anbringer",
+			"datid": "anbragte",
+			"førnutid": "har anbragt",
+			"førdatid": "havde anbragt",
+			"bydem.": "anbring"
+		},
+		{
+			"navnem.": "ane",
+			"nutid": "aner",
+			"datid": "anede",
+			"førnutid": "har anet",
+			"førdatid": "havde anet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "anerkende",
+			"nutid": "anerkender",
+			"datid": "anerkendte",
+			"førnutid": "har anerkendt",
+			"førdatid": "havde anerkendt",
+			"bydem.": "anerkend"
+		},
+		{
+			"navnem.": "angive",
+			"nutid": "angiver",
+			"datid": "angav",
+			"førnutid": "har angivet",
+			"førdatid": "havde angivet",
+			"bydem.": "angiv"
+		},
+		{
+			"navnem.": "angå",
+			"nutid": "angår",
+			"datid": "angik",
+			"førnutid": "har angået",
+			"førdatid": "havde angået",
+			"bydem.": null
+		},
+		{
+			"navnem.": "anholde",
+			"nutid": "anholder",
+			"datid": "anholdt",
+			"førnutid": "har anholdt",
+			"førdatid": "havde anholdt",
+			"bydem.": "anhold"
+		},
+		{
+			"navnem.": "ankomme",
+			"nutid": "ankommer",
+			"datid": "ankom",
+			"førnutid": "er ankommet",
+			"førdatid": "var ankommet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "anmelde",
+			"nutid": "anmelder",
+			"datid": "anmeldte",
+			"førnutid": "har anmeldt",
+			"førdatid": "havde anmeldt",
+			"bydem.": "anmeld"
+		},
+		{
+			"navnem.": "anse",
+			"nutid": "anser",
+			"datid": "anså",
+			"førnutid": "har anset",
+			"førdatid": "havde anset",
+			"bydem.": null
+		},
+		{
+			"navnem.": "ansætte",
+			"nutid": "ansætter",
+			"datid": "ansatte",
+			"førnutid": "har ansat",
+			"førdatid": "havde ansat",
+			"bydem.": "ansæt"
+		},
+		{
+			"navnem.": "anvende",
+			"nutid": "anvender",
+			"datid": "anvendte",
+			"førnutid": "har anvendt",
+			"førdatid": "havde anvendt",
+			"bydem.": "anvend"
+		},
+		{
+			"navnem.": "arbejde",
+			"nutid": "arbejder",
+			"datid": "arbejdede",
+			"førnutid": "har arbejdet",
+			"førdatid": "havde arbejdet",
+			"bydem.": "arbejd"
+		},
+		{
+			"navnem.": "arrangere",
+			"nutid": "arrangerer",
+			"datid": "arrangerede",
+			"førnutid": "har arrangeret",
+			"førdatid": "havde arrangeret",
+			"bydem.": "arranger"
+		},
+		{
+			"navnem.": "arrestere",
+			"nutid": "arresterer",
+			"datid": "arresterede",
+			"førnutid": "har arresteret",
+			"førdatid": "havde arresteret",
+			"bydem.": "arrester"
+		},
+		{
+			"navnem.": "bage",
+			"nutid": "bager",
+			"datid": "bagte",
+			"førnutid": "har bagt",
+			"førdatid": "havde bagt",
+			"bydem.": "bag"
+		},
+		{
+			"navnem.": "banke",
+			"nutid": "banker",
+			"datid": "bankede",
+			"førnutid": "har banket",
+			"førdatid": "havde banket",
+			"bydem.": "bank"
+		},
+		{
+			"navnem.": "bede",
+			"nutid": "beder",
+			"datid": "bad",
+			"førnutid": "har bedt",
+			"førdatid": "havde bedt",
+			"bydem.": "bed"
+		},
+		{
+			"navnem.": "befinde",
+			"nutid": "befinder",
+			"datid": "befandt",
+			"førnutid": "har befundet",
+			"førdatid": "havde befundet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "begrave",
+			"nutid": "begraver",
+			"datid": "begravede",
+			"førnutid": "har begravet",
+			"førdatid": "havde begravet",
+			"bydem.": "begrav"
+		},
+		{
+			"navnem.": "begrænse",
+			"nutid": "begrænser",
+			"datid": "begrænsede",
+			"førnutid": "har begrænset",
+			"førdatid": "havde begrænset",
+			"bydem.": "begræns"
+		},
+		{
+			"navnem.": "begynde",
+			"nutid": "begynder",
+			"datid": "begyndte",
+			"førnutid": "er begyndt",
+			"førdatid": "var begyndt",
+			"bydem.": "begynd"
+		},
+		{
+			"navnem.": "begå",
+			"nutid": "begår",
+			"datid": "begik",
+			"førnutid": "har begået",
+			"førdatid": "havde begået",
+			"bydem.": "begå"
+		},
+		{
+			"navnem.": "behandle",
+			"nutid": "behandler",
+			"datid": "behandlede",
+			"førnutid": "har behandlet",
+			"førdatid": "havde behandlet",
+			"bydem.": "behandl"
+		},
+		{
+			"navnem.": "beholde",
+			"nutid": "beholder",
+			"datid": "beholdt",
+			"førnutid": "har beholdt",
+			"førdatid": "havde beholdt",
+			"bydem.": "behold"
+		},
+		{
+			"navnem.": "behøve",
+			"nutid": "behøver",
+			"datid": "behøvede",
+			"førnutid": "har behøvet",
+			"førdatid": "havde behøvet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "beklage",
+			"nutid": "beklager",
+			"datid": "beklagede",
+			"førnutid": "har beklaget",
+			"førdatid": "havde beklaget",
+			"bydem.": "beklag"
+		},
+		{
+			"navnem.": "bekræfte",
+			"nutid": "bekræfter",
+			"datid": "bekræftede",
+			"førnutid": "har bekræfted",
+			"førdatid": "havde bekræftet",
+			"bydem.": "bekræft"
+		},
+		{
+			"navnem.": "bemærke",
+			"nutid": "bemærker",
+			"datid": "bemærkede",
+			"førnutid": "har bemærket",
+			"førdatid": "havde bemærket",
+			"bydem.": "bemærk"
+		},
+		{
+			"navnem.": "benytte",
+			"nutid": "benytter",
+			"datid": "benyttede",
+			"førnutid": "har benyttet",
+			"førdatid": "havde benyttet",
+			"bydem.": "benyt"
+		},
+		{
+			"navnem.": "beskrive",
+			"nutid": "beskriver",
+			"datid": "beskrev",
+			"førnutid": "har beskrevet",
+			"førdatid": "havde beskrevet",
+			"bydem.": "beskriv"
+		},
+		{
+			"navnem.": "beskytte",
+			"nutid": "beskytter",
+			"datid": "beskyttede",
+			"førnutid": "har beskyttet",
+			"førdatid": "havde beskyttet",
+			"bydem.": "beskyt"
+		},
+		{
+			"navnem.": "beslutte",
+			"nutid": "beslutter",
+			"datid": "besluttede",
+			"førnutid": "har besluttet",
+			"førdatid": "havde besluttet",
+			"bydem.": "beslut"
+		},
+		{
+			"navnem.": "bestemme",
+			"nutid": "bestemmer",
+			"datid": "bestemte",
+			"førnutid": "har bestemt",
+			"førdatid": "havde bestemt",
+			"bydem.": "bestem"
+		},
+		{
+			"navnem.": "bestille",
+			"nutid": "bestiller",
+			"datid": "bestilte",
+			"førnutid": "har bestilt",
+			"førdatid": "havde bestilt",
+			"bydem.": "bestil"
+		},
+		{
+			"navnem.": "bestå",
+			"nutid": "består",
+			"datid": "bestod",
+			"førnutid": "har bestået",
+			"førdatid": "havde bestået",
+			"bydem.": "bestå"
+		},
+		{
+			"navnem.": "besætte",
+			"nutid": "besætter",
+			"datid": "besatte",
+			"førnutid": "har besat",
+			"førdatid": "havde besat",
+			"bydem.": "besæt"
+		},
+		{
+			"navnem.": "besøge",
+			"nutid": "besøger",
+			"datid": "besøgte",
+			"førnutid": "har besøgt",
+			"førdatid": "havde besøgt",
+			"bydem.": "besøg"
+		},
+		{
+			"navnem.": "betale",
+			"nutid": "betaler",
+			"datid": "betalte",
+			"førnutid": "har betalt",
+			"førdatid": "havde betalt",
+			"bydem.": "betal"
+		},
+		{
+			"navnem.": "betyde",
+			"nutid": "betyder",
+			"datid": "betød",
+			"førnutid": "har betydet",
+			"førdatid": "havde betydet",
+			"bydem.": "betyd"
+		},
+		{
+			"navnem.": "bevare",
+			"nutid": "bevarer",
+			"datid": "bevarede",
+			"førnutid": "har bevaret",
+			"førdatid": "havde bevaret",
+			"bydem.": "bevar"
+		},
+		{
+			"navnem.": "bevise",
+			"nutid": "beviser",
+			"datid": "beviste",
+			"førnutid": "har bevist",
+			"førdatid": "havde bevist",
+			"bydem.": "bevis"
+		},
+		{
+			"navnem.": "bevæge",
+			"nutid": "sig",
+			"datid": "bevæger",
+			"førnutid": "sig bevægede",
+			"førdatid": "sig har",
+			"bydem.": "bevæget" sig havde bevæget sig bevæg dig
+		},
+		{
+			"navnem.": "bide",
+			"nutid": "bider",
+			"datid": "bed",
+			"førnutid": "har bidt",
+			"førdatid": "havde bidt",
+			"bydem.": "bid"
+		},
+		{
+			"navnem.": "bidrage",
+			"nutid": "bidrager",
+			"datid": "bidrog",
+			"førnutid": "har bidraget",
+			"førdatid": "havde bidraget",
+			"bydem.": "bidrag"
+		},
+		{
+			"navnem.": "binde",
+			"nutid": "binder",
+			"datid": "bandt",
+			"førnutid": "har bundet",
+			"førdatid": "havde bundet",
+			"bydem.": "bind"
+		},
+		{
+			"navnem.": "blande",
+			"nutid": "blander",
+			"datid": "blandede",
+			"førnutid": "har blandet",
+			"førdatid": "havde blandet",
+			"bydem.": "bland"
+		},
+		{
+			"navnem.": "blive",
+			"nutid": "bliver",
+			"datid": "blev",
+			"førnutid": "er blevet",
+			"førdatid": "var blevet",
+			"bydem.": "bliv"
+		},
+		{
+			"navnem.": "blæse",
+			"nutid": "blæser",
+			"datid": "blæste",
+			"førnutid": "har blæst",
+			"førdatid": "havde blæst",
+			"bydem.": "blæs"
+		},
+		{
+			"navnem.": "bo",
+			"nutid": "bor",
+			"datid": "boede",
+			"førnutid": "har boet",
+			"førdatid": "havde boet",
+			"bydem.": "bo"
+		},
+		{
+			"navnem.": "brede",
+			"nutid": "sig",
+			"datid": "breder",
+			"førnutid": "sig bredte",
+			"førdatid": "sig har",
+			"bydem.": "bredt" sig havde bredt sig bred dig
+		},
+		{
+			"navnem.": "bringe",
+			"nutid": "bringer",
+			"datid": "bragte",
+			"førnutid": "har bragt",
+			"førdatid": "havde bragt",
+			"bydem.": "bring"
+		},
+		{
+			"navnem.": "bruge",
+			"nutid": "bruger",
+			"datid": "brugte",
+			"førnutid": "har brugt",
+			"førdatid": "havde brugt",
+			"bydem.": "brug"
+		},
+		{
+			"navnem.": "bryde",
+			"nutid": "bryder",
+			"datid": "brød",
+			"førnutid": "har brudt",
+			"førdatid": "havde brudt",
+			"bydem.": "bryd"
+		},
+		{
+			"navnem.": "bygge",
+			"nutid": "bygger",
+			"datid": "byggede",
+			"førnutid": "har bygget",
+			"førdatid": "havde bygget",
+			"bydem.": "byg"
+		},
+		{
+			"navnem.": "bytte",
+			"nutid": "bytter",
+			"datid": "byttede",
+			"førnutid": "har byttet",
+			"førdatid": "havde byttet",
+			"bydem.": "byt"
+		},
+		{
+			"navnem.": "bære",
+			"nutid": "bærer",
+			"datid": "bar",
+			"førnutid": "har båret",
+			"førdatid": "havde båret",
+			"bydem.": "bær"
+		},
+		{
+			"navnem.": "citere",
+			"nutid": "citerer",
+			"datid": "citerede",
+			"førnutid": "har citeret",
+			"førdatid": "havde citeret",
+			"bydem.": "citer"
+		},
+		{
+			"navnem.": "danne",
+			"nutid": "danner",
+			"datid": "dannede",
+			"førnutid": "har dannet",
+			"førdatid": "havde dannet",
+			"bydem.": "dan"
+		},
+		{
+			"navnem.": "danse",
+			"nutid": "danser",
+			"datid": "dansede",
+			"førnutid": "har danset",
+			"førdatid": "havde danset",
+			"bydem.": "dans"
+		},
+		{
+			"navnem.": "dele",
+			"nutid": "deler",
+			"datid": "delte",
+			"førnutid": "har delt",
+			"førdatid": "havde delt",
+			"bydem.": "del"
+		},
+		{
+			"navnem.": "deltage",
+			"nutid": "deltager",
+			"datid": "deltog",
+			"førnutid": "har deltaget",
+			"førdatid": "havde deltaget",
+			"bydem.": "deltag"
+		},
+		{
+			"navnem.": "diskutere",
+			"nutid": "diskuterer",
+			"datid": "diskuterede",
+			"førnutid": "har diskuteret",
+			"førdatid": "havde diskuteret",
+			"bydem.": "diskuter"
+		},
+		{
+			"navnem.": "dominere",
+			"nutid": "dominerer",
+			"datid": "dominerede",
+			"førnutid": "har domineret",
+			"førdatid": "havde domineret",
+			"bydem.": "dominer"
+		},
+		{
+			"navnem.": "drage",
+			"nutid": "drager",
+			"datid": "drog",
+			"førnutid": "har draget",
+			"førdatid": "havde draget",
+			"bydem.": "drag"
+		},
+		{
+			"navnem.": "dreje",
+			"nutid": "drejer",
+			"datid": "drejede",
+			"førnutid": "har drejet",
+			"førdatid": "havde drejet",
+			"bydem.": "dreje"
+		},
+		{
+			"navnem.": "drikke",
+			"nutid": "drikker",
+			"datid": "drak",
+			"førnutid": "har drukket",
+			"førdatid": "havde drukket",
+			"bydem.": "drik"
+		},
+		{
+			"navnem.": "drive",
+			"nutid": "driver",
+			"datid": "drev",
+			"førnutid": "har drevet",
+			"førdatid": "havde drevet",
+			"bydem.": "driv"
+		},
+		{
+			"navnem.": "dræbe",
+			"nutid": "dræber",
+			"datid": "dræbte",
+			"førnutid": "har dræbt",
+			"førdatid": "havde dræbt",
+			"bydem.": "dræb"
+		},
+		{
+			"navnem.": "drøfte",
+			"nutid": "drøfter",
+			"datid": "drøftede",
+			"førnutid": "har drøftet",
+			"førdatid": "havde drøftet",
+			"bydem.": "drøft"
+		},
+		{
+			"navnem.": "drømme",
+			"nutid": "drømmer",
+			"datid": "drømte",
+			"førnutid": "har drømt",
+			"førdatid": "havde drømt",
+			"bydem.": "drøm"
+		},
+		{
+			"navnem.": "dukke",
+			"nutid": "op",
+			"datid": "dukker",
+			"førnutid": "op dukkede",
+			"førdatid": "op er",
+			"bydem.": "dukket" op var dukket op duk op
+		},
+		{
+			"navnem.": "dække",
+			"nutid": "dækker",
+			"datid": "dækkede",
+			"førnutid": "har dækket",
+			"førdatid": "havde dækket",
+			"bydem.": "dæk"
+		},
+		{
+			"navnem.": "dø",
+			"nutid": "dør",
+			"datid": "døde",
+			"førnutid": "er død",
+			"førdatid": "var død",
+			"bydem.": "dø"
+		},
+		{
+			"navnem.": "dømme",
+			"nutid": "dømmer",
+			"datid": "dømte",
+			"førnutid": "har dømt",
+			"førdatid": "havde dømt",
+			"bydem.": "døm"
+		},
+		{
+			"navnem.": "efterlade",
+			"nutid": "efterlader",
+			"datid": "efterlod",
+			"førnutid": "har efterladt",
+			"førdatid": "havde efterladt",
+			"bydem.": "efterlad"
+		},
+		{
+			"navnem.": "eje",
+			"nutid": "ejer",
+			"datid": "ejede",
+			"førnutid": "har ejet",
+			"førdatid": "havde ejet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "eksistere",
+			"nutid": "eksisterer",
+			"datid": "eksisterede",
+			"førnutid": "har eksisteret",
+			"førdatid": "havde eksisteret",
+			"bydem.": null
+		},
+		{
+			"navnem.": "elske",
+			"nutid": "elsker",
+			"datid": "elskede",
+			"førnutid": "har elsket",
+			"førdatid": "havde elsket",
+			"bydem.": "elsk"
+		},
+		{
+			"navnem.": "ende",
+			"nutid": "ender",
+			"datid": "endte",
+			"førnutid": "er endt",
+			"førdatid": "var endt",
+			"bydem.": null
+		},
+		{
+			"navnem.": "erkende",
+			"nutid": "erkender",
+			"datid": "erkendte",
+			"førnutid": "har erkendt",
+			"førdatid": "havde erkendt",
+			"bydem.": "erkend"
+		},
+		{
+			"navnem.": "erstatte",
+			"nutid": "erstatter",
+			"datid": "erstattede",
+			"førnutid": "har erstattet",
+			"førdatid": "havde erstatte",
+			"bydem.": "erstat"
+		},
+		{
+			"navnem.": "falde",
+			"nutid": "falder",
+			"datid": "faldt",
+			"førnutid": "er faldet",
+			"førdatid": "var faldet",
+			"bydem.": "fald"
+		},
+		{
+			"navnem.": "fange",
+			"nutid": "fanger",
+			"datid": "fangede",
+			"førnutid": "har fanget",
+			"førdatid": "havde fanget",
+			"bydem.": "fang"
+		},
+		{
+			"navnem.": "fastholde",
+			"nutid": "fastholder",
+			"datid": "fastholdt",
+			"førnutid": "har fastholdt",
+			"førdatid": "havde fastholdt",
+			"bydem.": "fasthold"
+		},
+		{
+			"navnem.": "fastslå",
+			"nutid": "fastslår",
+			"datid": "fastslog",
+			"førnutid": "har fastslået",
+			"førdatid": "havde fastslået",
+			"bydem.": "slå" fast
+		},
+		{
+			"navnem.": "fastsætte",
+			"nutid": "fastsætter",
+			"datid": "fastsatte",
+			"førnutid": "har fastsat",
+			"førdatid": "havde fastsat",
+			"bydem.": "fastsæt"
+		},
+		{
+			"navnem.": "fatte",
+			"nutid": "fatter",
+			"datid": "fattede",
+			"førnutid": "har fattet",
+			"førdatid": "havde fattet",
+			"bydem.": "fat"
+		},
+		{
+			"navnem.": "fejre",
+			"nutid": "fejrer",
+			"datid": "fejrede",
+			"førnutid": "har fejret",
+			"førdatid": "havde fejret",
+			"bydem.": "fejr"
+		},
+		{
+			"navnem.": "finde",
+			"nutid": "finder",
+			"datid": "fandt",
+			"førnutid": "har fundet",
+			"førdatid": "havde fundet",
+			"bydem.": "find"
+		},
+		{
+			"navnem.": "fjerne",
+			"nutid": "fjerner",
+			"datid": "fjernede",
+			"førnutid": "har fjernet",
+			"førdatid": "havde fjernet",
+			"bydem.": "fjern"
+		},
+		{
+			"navnem.": "flygte",
+			"nutid": "flygter",
+			"datid": "flygtede",
+			"førnutid": "er flygtet",
+			"førdatid": "var flygtet",
+			"bydem.": "flygt"
+		},
+		{
+			"navnem.": "flytte",
+			"nutid": "flytter",
+			"datid": "flyttede",
+			"førnutid": "er flyttet",
+			"førdatid": "var flyttet",
+			"bydem.": "flyt"
+		},
+		{
+			"navnem.": "flyve",
+			"nutid": "flyver",
+			"datid": "fløj",
+			"førnutid": "har /",
+			"førdatid": "er fløjet",
+			"bydem.": "havde" / var fløjet flyv
+		},
+		{
+			"navnem.": "fodre",
+			"nutid": "fodrer",
+			"datid": "fodrede",
+			"førnutid": "har fodret",
+			"førdatid": "havde fodret",
+			"bydem.": "fodr"
+		},
+		{
+			"navnem.": "forbedre",
+			"nutid": "forbedrer",
+			"datid": "forbedrede",
+			"førnutid": "har forbedret",
+			"førdatid": "havde forbedret",
+			"bydem.": "forbedr"
+		},
+		{
+			"navnem.": "forberede",
+			"nutid": "forbereder",
+			"datid": "forberedte",
+			"førnutid": "har forberedt",
+			"førdatid": "havde forberedt",
+			"bydem.": "forbered"
+		},
+		{
+			"navnem.": "forbinde",
+			"nutid": "forbinder",
+			"datid": "forbandt",
+			"førnutid": "har forbundet",
+			"førdatid": "havde forfundet",
+			"bydem.": "forbind"
+		},
+		{
+			"navnem.": "forblive",
+			"nutid": "forbliver",
+			"datid": "forblev",
+			"førnutid": "er forblevet",
+			"førdatid": "var forblevet",
+			"bydem.": "forbliv"
+		},
+		{
+			"navnem.": "fordele",
+			"nutid": "fordeler",
+			"datid": "fordelte",
+			"førnutid": "har fordelt",
+			"førdatid": "havde fordelt",
+			"bydem.": "fordel"
+		},
+		{
+			"navnem.": "foregå",
+			"nutid": "foregår",
+			"datid": "foregik",
+			"førnutid": "er foregået",
+			"førdatid": "var foregået",
+			"bydem.": "foregå"
+		},
+		{
+			"navnem.": "forekomme",
+			"nutid": "forekommer",
+			"datid": "forekom",
+			"førnutid": "er forekommet",
+			"førdatid": "var forekommet",
+			"bydem.": "forekom"
+		},
+		{
+			"navnem.": "forelske",
+			"nutid": "sig",
+			"datid": "forelsker",
+			"førnutid": "sig forelskede",
+			"førdatid": "sig har",
+			"bydem.": "forelsket" sig havde forelsket sig forelsk dig
+		},
+		{
+			"navnem.": "forene",
+			"nutid": "forener",
+			"datid": "forenede",
+			"førnutid": "har forenet",
+			"førdatid": "havde forenet",
+			"bydem.": "foren"
+		},
+		{
+			"navnem.": "foreslå",
+			"nutid": "foreslår",
+			"datid": "foreslog",
+			"førnutid": "har foreslået",
+			"førdatid": "havde foreslået",
+			"bydem.": "foreslå"
+		},
+		{
+			"navnem.": "forestille",
+			"nutid": "sig",
+			"datid": "forestiller",
+			"førnutid": "sig forestillede",
+			"førdatid": "sig har",
+			"bydem.": "forestillet" sig havde forestillet sig forestil dig
+		},
+		{
+			"navnem.": "foretage",
+			"nutid": "sig",
+			"datid": "foretager",
+			"førnutid": "sig foretog",
+			"førdatid": "sig har",
+			"bydem.": "foretaget" sig havde foretaget sig foretag dig
+		},
+		{
+			"navnem.": "foretrække",
+			"nutid": "foretrækker",
+			"datid": "foretrak",
+			"førnutid": "har foretrukket",
+			"førdatid": "havde foretrukket",
+			"bydem.": null
+		},
+		{
+			"navnem.": "forhandle",
+			"nutid": "forhandler",
+			"datid": "forhandlede",
+			"førnutid": "har forhandlet",
+			"førdatid": "havde forhandlet",
+			"bydem.": "forhandl"
+		},
+		{
+			"navnem.": "forhindre",
+			"nutid": "forhindrer",
+			"datid": "forhindrede",
+			"førnutid": "har forhindret",
+			"førdatid": "havde forhindret",
+			"bydem.": "forhindr"
+		},
+		{
+			"navnem.": "forholde",
+			"nutid": "sig",
+			"datid": "forholder",
+			"førnutid": "sig forholdt",
+			"førdatid": "sig har",
+			"bydem.": "forholdt" sig havde forholdt sig forhold dig
+		},
+		{
+			"navnem.": "forklare",
+			"nutid": "forklarer",
+			"datid": "forklarede",
+			"førnutid": "har forklaret",
+			"førdatid": "havde forklaret",
+			"bydem.": "forklar"
+		},
+		{
+			"navnem.": "forlade",
+			"nutid": "forlader",
+			"datid": "forlod",
+			"førnutid": "har forladt",
+			"førdatid": "havde forladt",
+			"bydem.": "forlad"
+		},
+		{
+			"navnem.": "forlange",
+			"nutid": "forlanger",
+			"datid": "forlangte",
+			"førnutid": "har forlangt",
+			"førdatid": "havde forlangt",
+			"bydem.": "forlang"
+		},
+		{
+			"navnem.": "formulere",
+			"nutid": "formulerer",
+			"datid": "formulerede",
+			"førnutid": "har formuleret",
+			"førdatid": "havde formuleret",
+			"bydem.": "formuler"
+		},
+		{
+			"navnem.": "formå",
+			"nutid": "formår",
+			"datid": "formåede",
+			"førnutid": "har fomået",
+			"førdatid": "havde formået",
+			"bydem.": "formå"
+		},
+		{
+			"navnem.": "forsinke",
+			"nutid": "forsinker",
+			"datid": "forsinkede",
+			"førnutid": "har forsinket",
+			"førdatid": "havde forsinket",
+			"bydem.": "forsink"
+		},
+		{
+			"navnem.": "forstå",
+			"nutid": "forstår",
+			"datid": "forstod",
+			"førnutid": "har forstået",
+			"førdatid": "havde forstået",
+			"bydem.": "forstå"
+		},
+		{
+			"navnem.": "forsvare",
+			"nutid": "forsvarer",
+			"datid": "forsvarede",
+			"førnutid": "har forsvaret",
+			"førdatid": "havde forsvaret",
+			"bydem.": "forsvar"
+		},
+		{
+			"navnem.": "forsvinde",
+			"nutid": "forsvinder",
+			"datid": "forsvandt",
+			"førnutid": "er forsvundet",
+			"førdatid": "var forsvundet",
+			"bydem.": "forsvind"
+		},
+		{
+			"navnem.": "forsøge",
+			"nutid": "forsøger",
+			"datid": "forsøgte",
+			"førnutid": "har forsøgt",
+			"førdatid": "havde forsøgt",
+			"bydem.": "forsøg"
+		},
+		{
+			"navnem.": "fortjene",
+			"nutid": "fortjener",
+			"datid": "fortjente",
+			"førnutid": "har fortjent",
+			"førdatid": "havde fortjent",
+			"bydem.": "fortjen"
+		},
+		{
+			"navnem.": "fortsætte",
+			"nutid": "fortsætter",
+			"datid": "fortsatte",
+			"førnutid": "har /",
+			"førdatid": "er fortsat",
+			"bydem.": "havde" / var fortsat fortsæt
+		},
+		{
+			"navnem.": "fortælle",
+			"nutid": "fortæller",
+			"datid": "fortalte",
+			"førnutid": "har fortalt",
+			"førdatid": "havde fortalt",
+			"bydem.": "fortæl"
+		},
+		{
+			"navnem.": "forudsætte",
+			"nutid": "forudsætter",
+			"datid": "forudsatte",
+			"førnutid": "har /",
+			"førdatid": "erforudsat havde",
+			"bydem.": "/" var forudsat forudsæt
+		},
+		{
+			"navnem.": "forvandle",
+			"nutid": "forvandler",
+			"datid": "forvandlede",
+			"førnutid": "har forvandlet",
+			"førdatid": "havde forvandlet",
+			"bydem.": "forvandl"
+		},
+		{
+			"navnem.": "forvente",
+			"nutid": "forventer",
+			"datid": "forventede",
+			"førnutid": "har forventet",
+			"førdatid": "havde forventet",
+			"bydem.": "forvent"
+		},
+		{
+			"navnem.": "fremgå",
+			"nutid": "fremgår",
+			"datid": "fremgik",
+			"førnutid": "er fremgået",
+			"førdatid": "var fremgået",
+			"bydem.": "fremgå"
+		},
+		{
+			"navnem.": "fremhæve",
+			"nutid": "fremhæver",
+			"datid": "fremhævede",
+			"førnutid": "har fremhævet",
+			"førdatid": "havde fremhævet",
+			"bydem.": "fremhæv"
+		},
+		{
+			"navnem.": "fremlægge",
+			"nutid": "fremlægger",
+			"datid": "fremlagde",
+			"førnutid": "har fremlagt",
+			"førdatid": "havde fremlagt",
+			"bydem.": "fremlæg"
+		},
+		{
+			"navnem.": "fremstille",
+			"nutid": "fremstiller",
+			"datid": "fremstillede",
+			"førnutid": "har fremstillet",
+			"førdatid": "havde fremstillet",
+			"bydem.": "fremstil"
+		},
+		{
+			"navnem.": "fremsætte",
+			"nutid": "fremsætter",
+			"datid": "fremsatte",
+			"førnutid": "har fremsat",
+			"førdatid": "havde fremsat",
+			"bydem.": "fremsæt"
+		},
+		{
+			"navnem.": "friste",
+			"nutid": "frister",
+			"datid": "fristede",
+			"førnutid": "har fristet",
+			"førdatid": "havde fristet",
+			"bydem.": "frist"
+		},
+		{
+			"navnem.": "frygte",
+			"nutid": "frygter",
+			"datid": "frygtede",
+			"førnutid": "har frygtet",
+			"førdatid": "havde frygtet",
+			"bydem.": "frygt"
+		},
+		{
+			"navnem.": "fungere",
+			"nutid": "fungerer",
+			"datid": "fungerede",
+			"førnutid": "har fungeret",
+			"førdatid": "havde fungeret",
+			"bydem.": "funger"
+		},
+		{
+			"navnem.": "fylde",
+			"nutid": "fylder",
+			"datid": "fyldte",
+			"førnutid": "har fyldt",
+			"førdatid": "havde fyldt",
+			"bydem.": "fyld"
+		},
+		{
+			"navnem.": "fyre",
+			"nutid": "fyrer",
+			"datid": "fyrede",
+			"førnutid": "har fyret",
+			"førdatid": "havde fyret",
+			"bydem.": "fyr"
+		},
+		{
+			"navnem.": "føde",
+			"nutid": "føder",
+			"datid": "fødte",
+			"førnutid": "har født",
+			"førdatid": "havde født",
+			"bydem.": "fød"
+		},
+		{
+			"navnem.": "føle",
+			"nutid": "føler",
+			"datid": "følte",
+			"førnutid": "har følt",
+			"førdatid": "havde følt",
+			"bydem.": "føl"
+		},
+		{
+			"navnem.": "følge",
+			"nutid": "følger",
+			"datid": "fulgte",
+			"førnutid": "har fulgt",
+			"førdatid": "havde fulgt",
+			"bydem.": "følg"
+		},
+		{
+			"navnem.": "føre",
+			"nutid": "fører",
+			"datid": "førte",
+			"førnutid": "har ført",
+			"førdatid": "havde ført",
+			"bydem.": "før"
+		},
+		{
+			"navnem.": "få",
+			"nutid": "får",
+			"datid": "fik",
+			"førnutid": "har fået",
+			"førdatid": "havde fået",
+			"bydem.": "få"
+		},
+		{
+			"navnem.": "gemme",
+			"nutid": "gemmer",
+			"datid": "gemte",
+			"førnutid": "har gemt",
+			"førdatid": "havde gemt",
+			"bydem.": "gem"
+		},
+		{
+			"navnem.": "genere",
+			"nutid": "generer",
+			"datid": "generede",
+			"førnutid": "har generet",
+			"førdatid": "havde generet",
+			"bydem.": "gener"
+		},
+		{
+			"navnem.": "gennemføre",
+			"nutid": "gennemfører",
+			"datid": "gennemførte",
+			"førnutid": "har gennemført",
+			"førdatid": "havde gennemført",
+			"bydem.": "gennemfør"
+		},
+		{
+			"navnem.": "gennemgå",
+			"nutid": "gennemgår",
+			"datid": "gennemgik",
+			"førnutid": "har gennemgået",
+			"førdatid": "havde gennemgået",
+			"bydem.": "gennemgå"
+		},
+		{
+			"navnem.": "gentage",
+			"nutid": "gentager",
+			"datid": "gentog",
+			"førnutid": "har gentaget",
+			"førdatid": "havde gentaget",
+			"bydem.": "gentag"
+		},
+		{
+			"navnem.": "gide",
+			"nutid": "gider",
+			"datid": "gad",
+			"førnutid": "har gidet",
+			"førdatid": "havde gidet",
+			"bydem.": "gid"
+		},
+		{
+			"navnem.": "gifte",
+			"nutid": "sig",
+			"datid": "gifter",
+			"førnutid": "sig giftede",
+			"førdatid": "sig har",
+			"bydem.": "giftet" sig havde giftet sig gift dig
+		},
+		{
+			"navnem.": "give",
+			"nutid": "giver",
+			"datid": "gav",
+			"førnutid": "har givet",
+			"førdatid": "havde givet",
+			"bydem.": "giv"
+		},
+		{
+			"navnem.": "glemme",
+			"nutid": "glemmer",
+			"datid": "glemte",
+			"førnutid": "har glemt",
+			"førdatid": "havde glemt",
+			"bydem.": "glem"
+		},
+		{
+			"navnem.": "glide",
+			"nutid": "glider",
+			"datid": "gled",
+			"førnutid": "er gledet",
+			"førdatid": "var gledet",
+			"bydem.": "glid"
+		},
+		{
+			"navnem.": "glæde",
+			"nutid": "sig",
+			"datid": "glæder",
+			"førnutid": "sig glædede",
+			"førdatid": "sig har",
+			"bydem.": "glædet" sig havde glædet sig glæd dig
+		},
+		{
+			"navnem.": "godkende",
+			"nutid": "godkender",
+			"datid": "godkendte",
+			"førnutid": "har godkendt",
+			"førdatid": "havde godkendt",
+			"bydem.": "godkend"
+		},
+		{
+			"navnem.": "gribe",
+			"nutid": "griber",
+			"datid": "greb",
+			"førnutid": "har grebet",
+			"førdatid": "havde grebet",
+			"bydem.": "grib"
+		},
+		{
+			"navnem.": "grine",
+			"nutid": "griner",
+			"datid": "grinede",
+			"førnutid": "har grinet",
+			"førdatid": "havde grinet",
+			"bydem.": "grin"
+		},
+		{
+			"navnem.": "græde",
+			"nutid": "græder",
+			"datid": "græd",
+			"førnutid": "har grædt",
+			"førdatid": "havde grædt",
+			"bydem.": "græd"
+		},
+		{
+			"navnem.": "gøre",
+			"nutid": "gør",
+			"datid": "gjorde",
+			"førnutid": "har gjort",
+			"førdatid": "havde gjort",
+			"bydem.": "gør"
+		},
+		{
+			"navnem.": "gå",
+			"nutid": "går",
+			"datid": "gik",
+			"førnutid": "har /",
+			"førdatid": "er gået",
+			"bydem.": "havde" / var gået gå
+		},
+		{
+			"navnem.": "hade",
+			"nutid": "hader",
+			"datid": "hadede",
+			"førnutid": "har hadet",
+			"førdatid": "havde hadet",
+			"bydem.": "had"
+		},
+		{
+			"navnem.": "handle",
+			"nutid": "handler",
+			"datid": "handlede",
+			"førnutid": "har handlet",
+			"førdatid": "havde handlet",
+			"bydem.": "handl"
+		},
+		{
+			"navnem.": "have",
+			"nutid": "har",
+			"datid": "havde",
+			"førnutid": "har haft",
+			"førdatid": "havde haft",
+			"bydem.": "hav"
+		},
+		{
+			"navnem.": "hedde",
+			"nutid": "hedder",
+			"datid": "hed",
+			"førnutid": "har heddet",
+			"førdatid": "havde heddet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "hente",
+			"nutid": "henter",
+			"datid": "hentede",
+			"førnutid": "har hentet",
+			"førdatid": "havde hentet",
+			"bydem.": "hent"
+		},
+		{
+			"navnem.": "henvende",
+			"nutid": "sig",
+			"datid": "henvender",
+			"førnutid": "sig henvendte",
+			"førdatid": "sig har",
+			"bydem.": "henvendt" sig havde henvendt sig henvend dig
+		},
+		{
+			"navnem.": "henvise",
+			"nutid": "henviser",
+			"datid": "henviste",
+			"førnutid": "har henvist",
+			"førdatid": "havde henvist",
+			"bydem.": "henvis"
+		},
+		{
+			"navnem.": "herske",
+			"nutid": "hersker",
+			"datid": "herskede",
+			"førnutid": "har hersket",
+			"førdatid": "havde hersket",
+			"bydem.": "hersk"
+		},
+		{
+			"navnem.": "hilse",
+			"nutid": "hilser",
+			"datid": "hilste",
+			"førnutid": "har hilst",
+			"førdatid": "havde hilst",
+			"bydem.": "hils"
+		},
+		{
+			"navnem.": "hindre",
+			"nutid": "hindrer",
+			"datid": "hindrede",
+			"førnutid": "har hindret",
+			"førdatid": "havde hindret",
+			"bydem.": "hindr"
+		},
+		{
+			"navnem.": "hjælpe",
+			"nutid": "hjælper",
+			"datid": "hjalp",
+			"førnutid": "har hjulpet",
+			"førdatid": "havde hjulpet",
+			"bydem.": "hjælp"
+		},
+		{
+			"navnem.": "holde",
+			"nutid": "holder",
+			"datid": "holdt",
+			"førnutid": "har holdt",
+			"førdatid": "havde holdt",
+			"bydem.": "hold"
+		},
+		{
+			"navnem.": "hoppe",
+			"nutid": "hopper",
+			"datid": "hoppede",
+			"førnutid": "har /",
+			"førdatid": "er hoppet",
+			"bydem.": "havde" / var hoppet hop
+		},
+		{
+			"navnem.": "huske",
+			"nutid": "husker",
+			"datid": "huskede",
+			"førnutid": "har husket",
+			"førdatid": "havde husket",
+			"bydem.": "husk"
+		},
+		{
+			"navnem.": "hvile",
+			"nutid": "sig",
+			"datid": "hviler",
+			"førnutid": "sig hvilede",
+			"førdatid": "sig har",
+			"bydem.": "hvilet" sig havde hvilet sig hvil dig
+		},
+		{
+			"navnem.": "hviske",
+			"nutid": "hvisker",
+			"datid": "hviskede",
+			"førnutid": "har hvisket",
+			"førdatid": "havde hvisket",
+			"bydem.": "hvisk"
+		},
+		{
+			"navnem.": "hælde",
+			"nutid": "hælder",
+			"datid": "hældte",
+			"førnutid": "har hældt",
+			"førdatid": "havde hældt",
+			"bydem.": "hæld"
+		},
+		{
+			"navnem.": "hænge",
+			"nutid": " (tr",
+			"datid": ".",
+			"førnutid": "hænger hængte",
+			"førdatid": "har hængt",
+			"bydem.": "havde" hængt hæng
+		},
+		{
+			"navnem.": "hænge",
+			"nutid": "(intr",
+			"datid": ".",
+			"førnutid": "hænger hang",
+			"førdatid": "har hængt",
+			"bydem.": "havde" hængt hæng
+		},
+		{
+			"navnem.": "hævde",
+			"nutid": "hævder",
+			"datid": "Hævdede",
+			"førnutid": "har hævdet",
+			"førdatid": "havde hævdet",
+			"bydem.": "hævd"
+		},
+		{
+			"navnem.": "hæve",
+			"nutid": "hæver",
+			"datid": "hævede",
+			"førnutid": "har hævet",
+			"førdatid": "havde hævet",
+			"bydem.": "hæv"
+		},
+		{
+			"navnem.": "høre",
+			"nutid": "hører",
+			"datid": "hørte",
+			"førnutid": "har hørt",
+			"førdatid": "havde hørt",
+			"bydem.": "hør"
+		},
+		{
+			"navnem.": "håbe",
+			"nutid": "håber",
+			"datid": "håbede",
+			"førnutid": "har håbet",
+			"førdatid": "havde håbet",
+			"bydem.": "håb"
+		},
+		{
+			"navnem.": "inddrage",
+			"nutid": "inddrager",
+			"datid": "inddrog",
+			"førnutid": "har inddraget",
+			"førdatid": "havde inddraget",
+			"bydem.": "inddrag"
+		},
+		{
+			"navnem.": "indebære",
+			"nutid": "indebærer",
+			"datid": "indebar",
+			"førnutid": "har indebåret",
+			"førdatid": "havde indebåret",
+			"bydem.": null
+		},
+		{
+			"navnem.": "indeholde",
+			"nutid": "indeholder",
+			"datid": "indeholdt",
+			"førnutid": "har indeholdt",
+			"førdatid": "havde indeholdt",
+			"bydem.": null
+		},
+		{
+			"navnem.": "indføre",
+			"nutid": "indfører",
+			"datid": "indførte",
+			"førnutid": "har indført",
+			"førdatid": "havde indført",
+			"bydem.": "indfør"
+		},
+		{
+			"navnem.": "indgå",
+			"nutid": "indgår",
+			"datid": "indgik",
+			"førnutid": "har indgået",
+			"førdatid": "havde indgået",
+			"bydem.": "indgå"
+		},
+		{
+			"navnem.": "indlede",
+			"nutid": "indleder",
+			"datid": "indledte",
+			"førnutid": "har indledt",
+			"førdatid": "havde indledt",
+			"bydem.": "indled"
+		},
+		{
+			"navnem.": "indrette",
+			"nutid": "indretter",
+			"datid": "indrettede",
+			"førnutid": "har indrettet",
+			"førdatid": "havde indrettet",
+			"bydem.": "indret"
+		},
+		{
+			"navnem.": "indrømme",
+			"nutid": "indrømmer",
+			"datid": "indrømmede",
+			"førnutid": "har indrømmet",
+			"førdatid": "havde indrømmet",
+			"bydem.": "indrøm"
+		},
+		{
+			"navnem.": "indstille",
+			"nutid": "indstiller",
+			"datid": "indstillede",
+			"førnutid": "har indstillet",
+			"førdatid": "havde indstillet",
+			"bydem.": "indstil"
+		},
+		{
+			"navnem.": "indtage",
+			"nutid": "indtager",
+			"datid": "indtog",
+			"førnutid": "har indtaget",
+			"førdatid": "havde indtaget",
+			"bydem.": "indtag"
+		},
+		{
+			"navnem.": "installere",
+			"nutid": "installerer",
+			"datid": "installerede",
+			"førnutid": "har installeret",
+			"førdatid": "havde installeret",
+			"bydem.": "installer"
+		},
+		{
+			"navnem.": "inspirere",
+			"nutid": "inspirerer",
+			"datid": "inspirerede",
+			"førnutid": "har inspireret",
+			"førdatid": "havde inspireret",
+			"bydem.": "inspirer"
+		},
+		{
+			"navnem.": "interessere",
+			"nutid": "interesserer",
+			"datid": "interesserede",
+			"førnutid": "har interesseret",
+			"førdatid": "havde interesseret",
+			"bydem.": "interesser"
+		},
+		{
+			"navnem.": "investere",
+			"nutid": "investerer",
+			"datid": "investerede",
+			"førnutid": "har investeret",
+			"førdatid": "havde investeret",
+			"bydem.": "invester"
+		},
+		{
+			"navnem.": "invitere",
+			"nutid": "inviterer",
+			"datid": "inviterede",
+			"førnutid": "har inviteret",
+			"førdatid": "havde inviteret",
+			"bydem.": "inviter"
+		},
+		{
+			"navnem.": "irritere",
+			"nutid": "irriterer",
+			"datid": "irriterede",
+			"førnutid": "har irriteret",
+			"førdatid": "havde irriteret",
+			"bydem.": "irriter"
+		},
+		{
+			"navnem.": "kalde",
+			"nutid": "kalder",
+			"datid": "kaldte",
+			"førnutid": "har kaldt",
+			"førdatid": "havde kaldt",
+			"bydem.": "kald"
+		},
+		{
+			"navnem.": "kaste",
+			"nutid": "kaster",
+			"datid": "kastede",
+			"førnutid": "har kastet",
+			"førdatid": "havde kastet",
+			"bydem.": "kast"
+		},
+		{
+			"navnem.": "kende",
+			"nutid": "kender",
+			"datid": "kendte",
+			"førnutid": "har kendt",
+			"førdatid": "havde kendt",
+			"bydem.": "kend"
+		},
+		{
+			"navnem.": "kigge",
+			"nutid": "kigger",
+			"datid": "kiggede",
+			"førnutid": "har kigget",
+			"førdatid": "havde kigget",
+			"bydem.": "kig"
+		},
+		{
+			"navnem.": "klare",
+			"nutid": "klarer",
+			"datid": "klarede",
+			"førnutid": "har klaret",
+			"førdatid": "havde klaret",
+			"bydem.": "klar"
+		},
+		{
+			"navnem.": "klippe",
+			"nutid": "klipper",
+			"datid": "klippede",
+			"førnutid": "har klippet",
+			"førdatid": "havde klippet",
+			"bydem.": "klip"
+		},
+		{
+			"navnem.": "klæde",
+			"nutid": "klæder",
+			"datid": "klædte",
+			"førnutid": "har klædt",
+			"førdatid": "havde klædt",
+			"bydem.": "klæd"
+		},
+		{
+			"navnem.": "knuse",
+			"nutid": "knuser",
+			"datid": "knuste",
+			"førnutid": "har knust",
+			"førdatid": "havde knust",
+			"bydem.": "knus"
+		},
+		{
+			"navnem.": "knytte",
+			"nutid": "knytter",
+			"datid": "knyttede",
+			"førnutid": "har knyttet",
+			"førdatid": "havde knyttet",
+			"bydem.": "knyt"
+		},
+		{
+			"navnem.": "koge",
+			"nutid": "koger",
+			"datid": "kogte",
+			"førnutid": "har kogt",
+			"førdatid": "havde kogt",
+			"bydem.": "kog"
+		},
+		{
+			"navnem.": "kombinere",
+			"nutid": "kombinerer",
+			"datid": "kombinerede",
+			"førnutid": "har kombineret",
+			"førdatid": "havde kombineret",
+			"bydem.": "kombiner"
+		},
+		{
+			"navnem.": "komme",
+			"nutid": "kommer",
+			"datid": "kom",
+			"førnutid": "er kommet",
+			"førdatid": "var kommet",
+			"bydem.": "kom"
+		},
+		{
+			"navnem.": "kommentere",
+			"nutid": "kommenterer",
+			"datid": "kommenterede",
+			"førnutid": "Har kommenteret",
+			"førdatid": "havde kommenteret",
+			"bydem.": "kommenter"
+		},
+		{
+			"navnem.": "koncentrere",
+			"nutid": "sig",
+			"datid": "koncentrerer",
+			"førnutid": "sig koncentrede",
+			"førdatid": "sig har",
+			"bydem.": "koncentreret" sig havde koncentreret sig koncentrer
+		},dig
+		{
+			"navnem.": "konstatere",
+			"nutid": "konstaterer",
+			"datid": "konstaterede",
+			"førnutid": "har konstateret",
+			"førdatid": "havde konstateret",
+			"bydem.": "konstater"
+		},
+		{
+			"navnem.": "kontakte",
+			"nutid": "kontakter",
+			"datid": "kontaktede",
+			"førnutid": "har kontaktet",
+			"førdatid": "havde kontaktet",
+			"bydem.": "kontakt"
+		},
+		{
+			"navnem.": "kontrollere",
+			"nutid": "kontrollerer",
+			"datid": "kontrollerede",
+			"førnutid": "har kontrolleret",
+			"førdatid": "havde kontrolleret",
+			"bydem.": "kontroller"
+		},
+		{
+			"navnem.": "koste",
+			"nutid": "koster",
+			"datid": "kostede",
+			"førnutid": "har kostet",
+			"førdatid": "havde kostet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "kritisere",
+			"nutid": "kritiserer",
+			"datid": "kritiserede",
+			"førnutid": "har kritiseret",
+			"førdatid": "havde kritiseret",
+			"bydem.": "kritiser"
+		},
+		{
+			"navnem.": "kræve",
+			"nutid": "kræver",
+			"datid": "krævede",
+			"førnutid": "har krævet",
+			"førdatid": "havde krævet",
+			"bydem.": "kræv"
+		},
+		{
+			"navnem.": "kunne",
+			"nutid": "kan",
+			"datid": "kunne",
+			"førnutid": "har kunnet",
+			"førdatid": "havde kunnet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "kunne",
+			"nutid": "lide",
+			"datid": "kan",
+			"førnutid": "lide kunne",
+			"førdatid": "lide har",
+			"bydem.": "kunnet" lide havde kunnet lide
+		},
+		{
+			"navnem.": "kysse",
+			"nutid": "kysser",
+			"datid": "kyssede",
+			"førnutid": "har kysset",
+			"førdatid": "havde kysset",
+			"bydem.": "kys"
+		},
+		{
+			"navnem.": "kæmpe",
+			"nutid": "kæmper",
+			"datid": "kæmpede",
+			"førnutid": "har kæmpet",
+			"førdatid": "havde kæmpet",
+			"bydem.": "kæmp"
+		},
+		{
+			"navnem.": "købe",
+			"nutid": "køber",
+			"datid": "købte",
+			"førnutid": "har købt",
+			"førdatid": "havde købt",
+			"bydem.": "køb"
+		},
+		{
+			"navnem.": "køre",
+			"nutid": "kører",
+			"datid": "kørte",
+			"førnutid": "har /",
+			"førdatid": "er kørt",
+			"bydem.": "havde" / var kørt kør
+		},
+		{
+			"navnem.": "lade",
+			"nutid": "lader",
+			"datid": "lod",
+			"førnutid": "har ladet",
+			"førdatid": "havde ladet",
+			"bydem.": "lad"
+		},
+		{
+			"navnem.": "lade",
+			"nutid": "som",
+			"datid": "om",
+			"førnutid": "lader som",
+			"førdatid": "om lod",
+			"bydem.": "som" om har ladet som om havde ladet som om lad som om
+		},
+		{
+			"navnem.": "lande",
+			"nutid": "lander",
+			"datid": "landede",
+			"førnutid": "er landet",
+			"førdatid": "var landet",
+			"bydem.": "land"
+		},
+		{
+			"navnem.": "lave",
+			"nutid": "laver",
+			"datid": "lavede",
+			"førnutid": "har lavet",
+			"førdatid": "havde lavet",
+			"bydem.": "lav"
+		},
+		{
+			"navnem.": "le",
+			"nutid": "ler",
+			"datid": "lo",
+			"førnutid": "har leet",
+			"førdatid": "havde leet",
+			"bydem.": "le"
+		},
+		{
+			"navnem.": "lede",
+			"nutid": "leder",
+			"datid": "ledte",
+			"førnutid": "har ledt",
+			"førdatid": "havde ledt",
+			"bydem.": "led"
+		},
+		{
+			"navnem.": "lege",
+			"nutid": "leger",
+			"datid": "legede",
+			"førnutid": "har leget",
+			"førdatid": "havde leget",
+			"bydem.": "leg"
+		},
+		{
+			"navnem.": "leje",
+			"nutid": "lejer",
+			"datid": "lejede",
+			"førnutid": "har lejet",
+			"førdatid": "havde lejet",
+			"bydem.": "lej"
+		},
+		{
+			"navnem.": "lette",
+			"nutid": "letter",
+			"datid": "lettede",
+			"førnutid": "har /",
+			"førdatid": "er lettet",
+			"bydem.": "havde" / er lettet let
+		},
+		{
+			"navnem.": "leve",
+			"nutid": "lever",
+			"datid": "levede",
+			"førnutid": "har levet",
+			"førdatid": "havde levet",
+			"bydem.": "lev"
+		},
+		{
+			"navnem.": "levere",
+			"nutid": "leverer",
+			"datid": "leverede",
+			"førnutid": "har leveret",
+			"førdatid": "havde leveret",
+			"bydem.": "lever"
+		},
+		{
+			"navnem.": "lide",
+			"nutid": "lider",
+			"datid": "led",
+			"førnutid": "har lidt",
+			"førdatid": "havde lidt",
+			"bydem.": "lid"
+		},
+		{
+			"navnem.": "ligge",
+			"nutid": "(intr",
+			"datid": ")",
+			"førnutid": "ligger lå",
+			"førdatid": "har ligget",
+			"bydem.": "havde" ligget lig
+		},
+		{
+			"navnem.": "ligne",
+			"nutid": "ligner",
+			"datid": "lignede",
+			"førnutid": "har lignet",
+			"førdatid": "havde lignet",
+			"bydem.": "lign"
+		},
+		{
+			"navnem.": "lokke",
+			"nutid": "lokker",
+			"datid": "lokkede",
+			"førnutid": "har lokket",
+			"førdatid": "havde lokket",
+			"bydem.": "lok"
+		},
+		{
+			"navnem.": "love",
+			"nutid": "lover",
+			"datid": "lovede",
+			"førnutid": "har lovet",
+			"førdatid": "havde lovet",
+			"bydem.": "lov"
+		},
+		{
+			"navnem.": "lukke",
+			"nutid": "lukker",
+			"datid": "lukkede",
+			"førnutid": "har lukket",
+			"førdatid": "havde lukket",
+			"bydem.": "luk"
+		},
+		{
+			"navnem.": "lyde",
+			"nutid": "lyder",
+			"datid": "lød",
+			"førnutid": "har lydt",
+			"førdatid": "havde lydt",
+			"bydem.": "lyd"
+		},
+		{
+			"navnem.": "lykkes",
+			"nutid": "lykkes",
+			"datid": "lykkedes",
+			"førnutid": "er lykkedes",
+			"førdatid": "var lykkedes",
+			"bydem.": null
+		},
+		{
+			"navnem.": "lyse",
+			"nutid": "lyser",
+			"datid": "lyste",
+			"førnutid": "har lyst",
+			"førdatid": "havde lyst",
+			"bydem.": "lys"
+		},
+		{
+			"navnem.": "lytte",
+			"nutid": "lytter",
+			"datid": "lyttede",
+			"førnutid": "har lyttet",
+			"førdatid": "havde lyttet",
+			"bydem.": "lyt"
+		},
+		{
+			"navnem.": "lægge",
+			"nutid": "(tr",
+			"datid": ")",
+			"førnutid": "lægger lagde",
+			"førdatid": "har lagt",
+			"bydem.": "havde" lagt læg
+		},
+		{
+			"navnem.": "lære",
+			"nutid": "lærer",
+			"datid": "lærte",
+			"førnutid": "har lært",
+			"førdatid": "havde lært",
+			"bydem.": "lær"
+		},
+		{
+			"navnem.": "læse",
+			"nutid": "læser",
+			"datid": "læste",
+			"førnutid": "har læst",
+			"førdatid": "havde læst",
+			"bydem.": "læs"
+		},
+		{
+			"navnem.": "løbe",
+			"nutid": "løber",
+			"datid": "løb",
+			"førnutid": "har /",
+			"førdatid": "er løbet",
+			"bydem.": "havde" / var løbet løb
+		},
+		{
+			"navnem.": "løfte",
+			"nutid": "løfter",
+			"datid": "løftede",
+			"førnutid": "har løftet",
+			"førdatid": "havde løftet",
+			"bydem.": "løft"
+		},
+		{
+			"navnem.": "løse",
+			"nutid": "løser",
+			"datid": "løste",
+			"førnutid": "har løst",
+			"førdatid": "havde løst",
+			"bydem.": "løs"
+		},
+		{
+			"navnem.": "låne",
+			"nutid": "låner",
+			"datid": "lånte",
+			"førnutid": "har lånt",
+			"førdatid": "havde lånt",
+			"bydem.": "lån"
+		},
+		{
+			"navnem.": "male",
+			"nutid": "maler",
+			"datid": "malede",
+			"førnutid": "har malet",
+			"førdatid": "havde malet",
+			"bydem.": "mal"
+		},
+		{
+			"navnem.": "mangle",
+			"nutid": "mangler",
+			"datid": "manglede",
+			"førnutid": "har manglet",
+			"førdatid": "havde manglet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "meddele",
+			"nutid": "meddeler",
+			"datid": "meddelte",
+			"førnutid": "har meddelt",
+			"førdatid": "havde meddelt",
+			"bydem.": "meddel"
+		},
+		{
+			"navnem.": "medføre",
+			"nutid": "medfører",
+			"datid": "medførte",
+			"førnutid": "har medført",
+			"førdatid": "havde medført",
+			"bydem.": "medfør"
+		},
+		{
+			"navnem.": "medvirke",
+			"nutid": "medvirker",
+			"datid": "medvirkede",
+			"førnutid": "har medvirket",
+			"førdatid": "havde medvirket",
+			"bydem.": "medvirk"
+		},
+		{
+			"navnem.": "melde",
+			"nutid": "melder",
+			"datid": "meldte",
+			"førnutid": "har meldt",
+			"førdatid": "havde meldt",
+			"bydem.": "meld"
+		},
+		{
+			"navnem.": "mene",
+			"nutid": "mener",
+			"datid": "mente",
+			"førnutid": "har ment",
+			"førdatid": "havde ment",
+			"bydem.": "men"
+		},
+		{
+			"navnem.": "minde",
+			"nutid": "minder",
+			"datid": "mindede",
+			"førnutid": "har mindet",
+			"førdatid": "havde mindet",
+			"bydem.": "mind"
+		},
+		{
+			"navnem.": "miste",
+			"nutid": "mister",
+			"datid": "mistede",
+			"førnutid": "har mistet",
+			"førdatid": "havde mistet",
+			"bydem.": "mist"
+		},
+		{
+			"navnem.": "modtage",
+			"nutid": "modtager",
+			"datid": "modtog",
+			"førnutid": "har modtaget",
+			"førdatid": "havde modtaget",
+			"bydem.": "modtag"
+		},
+		{
+			"navnem.": "myrde",
+			"nutid": "myrder",
+			"datid": "myrdede",
+			"førnutid": "har myrdet",
+			"førdatid": "havde myrdet",
+			"bydem.": "myrd"
+		},
+		{
+			"navnem.": "mærke",
+			"nutid": "mærker",
+			"datid": "mærkede",
+			"førnutid": "har mærket",
+			"førdatid": "havde mærket",
+			"bydem.": "mærk"
+		},
+		{
+			"navnem.": "møde",
+			"nutid": "møder",
+			"datid": "mødte",
+			"førnutid": "har mødt",
+			"førdatid": "havde mødt",
+			"bydem.": "mød"
+		},
+		{
+			"navnem.": "mødes",
+			"nutid": "mødes",
+			"datid": "mødtes",
+			"førnutid": "har mødtes",
+			"førdatid": "havde mødtes",
+			"bydem.": null
+		},
+		{
+			"navnem.": "måle",
+			"nutid": "måler",
+			"datid": "målte",
+			"førnutid": "har målt",
+			"førdatid": "havde målt",
+			"bydem.": "mål"
+		},
+		{
+			"navnem.": "måtte",
+			"nutid": "må",
+			"datid": "måtte",
+			"førnutid": "har måttet",
+			"førdatid": "havde måttet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "nedlægge",
+			"nutid": "nedlægger",
+			"datid": "nedlagde",
+			"førnutid": "har nedlagt",
+			"førdatid": "havde nedlagt",
+			"bydem.": "nedlæg"
+		},
+		{
+			"navnem.": "nedsætte",
+			"nutid": "nedsætter",
+			"datid": "nedsatte",
+			"førnutid": "har nedsat",
+			"førdatid": "havde nedsat",
+			"bydem.": "nedsæt"
+		},
+		{
+			"navnem.": "nikke",
+			"nutid": "nikker",
+			"datid": "nikkede",
+			"førnutid": "har nikket",
+			"førdatid": "havde nikket",
+			"bydem.": "nik"
+		},
+		{
+			"navnem.": "notere",
+			"nutid": "noterer",
+			"datid": "noterede",
+			"førnutid": "har noteret",
+			"førdatid": "havde noteret",
+			"bydem.": "noter"
+		},
+		{
+			"navnem.": "nyde",
+			"nutid": "nyder",
+			"datid": "nød",
+			"førnutid": "har nydt",
+			"førdatid": "havde nydt",
+			"bydem.": "nyd"
+		},
+		{
+			"navnem.": "nægte",
+			"nutid": "nægter",
+			"datid": "nægtede",
+			"førnutid": "har nægtet",
+			"førdatid": "havde nægtet",
+			"bydem.": "nægt"
+		},
+		{
+			"navnem.": "nærme",
+			"nutid": "sig",
+			"datid": "nærmer",
+			"førnutid": "sig nærmede",
+			"førdatid": "sig har",
+			"bydem.": "nærmet" sig havde nærmet sig nærm dig
+		},
+		{
+			"navnem.": "nøjes",
+			"nutid": "med",
+			"datid": "nøjes",
+			"førnutid": "med nøjedes",
+			"førdatid": "med har",
+			"bydem.": "nøjedes" havde nøjedes med nøjes med
+		},
+		{
+			"navnem.": "nå",
+			"nutid": "når",
+			"datid": "nåede",
+			"førnutid": "har nået",
+			"førdatid": "havde nået",
+			"bydem.": "nå"
+		},
+		{
+			"navnem.": "offentliggøre",
+			"nutid": "offentliggør",
+			"datid": "offentliggjorde",
+			"førnutid": "har offentlig",
+			"førdatid":-"gjort havde",
+			"bydem.": "offentlig"-gjort offentlig-gør
+		},
+		{
+			"navnem.": "omfatte",
+			"nutid": "omfatter",
+			"datid": "omfattede",
+			"førnutid": "har omfattet",
+			"førdatid": "havde omfattet",
+			"bydem.": "omfat"
+		},
+		{
+			"navnem.": "omgive",
+			"nutid": "omgiver",
+			"datid": "omgav",
+			"førnutid": "har omgivet",
+			"førdatid": "havde omgivet",
+			"bydem.": "omgiv"
+		},
+		{
+			"navnem.": "opbygge",
+			"nutid": "opbygger",
+			"datid": "opbyggede",
+			"førnutid": "har opbygget",
+			"førdatid": "havde opbygget",
+			"bydem.": "opbyg"
+		},
+		{
+			"navnem.": "opdage",
+			"nutid": "opdager",
+			"datid": "opdagede",
+			"førnutid": "har opdaget",
+			"førdatid": "havde opdaget",
+			"bydem.": "opdag"
+		},
+		{
+			"navnem.": "operere",
+			"nutid": "opererer",
+			"datid": "opererede",
+			"førnutid": "har opereret",
+			"førdatid": "havde opereret",
+			"bydem.": "operer"
+		},
+		{
+			"navnem.": "opfatte",
+			"nutid": "opfatter",
+			"datid": "opfattede",
+			"førnutid": "har opfattet",
+			"førdatid": "havde opfattet",
+			"bydem.": "opfat"
+		},
+		{
+			"navnem.": "opfinde",
+			"nutid": "opfinder",
+			"datid": "opfandt",
+			"førnutid": "har opfundet",
+			"førdatid": "havde opfundet",
+			"bydem.": "opfind"
+		},
+		{
+			"navnem.": "opfordre",
+			"nutid": "opfordrer",
+			"datid": "opfordrede",
+			"førnutid": "har opfordret",
+			"førdatid": "havde opfordret",
+			"bydem.": "opfordr"
+		},
+		{
+			"navnem.": "opfylde",
+			"nutid": "opfylder",
+			"datid": "opfyldte",
+			"førnutid": "har opfyldt",
+			"førdatid": "havde opfyldt",
+			"bydem.": "opfyld"
+		},
+		{
+			"navnem.": "opføre",
+			"nutid": "opfører",
+			"datid": "opførte",
+			"førnutid": "har opført",
+			"førdatid": "havde opført",
+			"bydem.": "opfør"
+		},
+		{
+			"navnem.": "opgive",
+			"nutid": "opgiver",
+			"datid": "opgav",
+			"førnutid": "har opgivet",
+			"førdatid": "havde opgivet",
+			"bydem.": "opgiv"
+		},
+		{
+			"navnem.": "ophæve",
+			"nutid": "ophæver",
+			"datid": "ophævede",
+			"førnutid": "har ophævet",
+			"førdatid": "havde ophævet",
+			"bydem.": "ophæv"
+		},
+		{
+			"navnem.": "opleve",
+			"nutid": "oplever",
+			"datid": "oplevede",
+			"førnutid": "har oplevet",
+			"førdatid": "havde oplevet",
+			"bydem.": "oplev"
+		},
+		{
+			"navnem.": "oplyse",
+			"nutid": "oplyser",
+			"datid": "oplyste",
+			"førnutid": "har oplyst",
+			"førdatid": "havde oplyst",
+			"bydem.": "oplys"
+		},
+		{
+			"navnem.": "opnå",
+			"nutid": "opnår",
+			"datid": "opnåede",
+			"førnutid": "har opnået",
+			"førdatid": "havde opnået",
+			"bydem.": "opnå"
+		},
+		{
+			"navnem.": "oprette",
+			"nutid": "opretter",
+			"datid": "oprettede",
+			"førnutid": "har oprettet",
+			"førdatid": "havde oprettet",
+			"bydem.": "opret"
+		},
+		{
+			"navnem.": "opstille",
+			"nutid": "opstiller",
+			"datid": "opstillede",
+			"førnutid": "har opstillet",
+			"førdatid": "havde opstillet",
+			"bydem.": "opstil"
+		},
+		{
+			"navnem.": "opstå",
+			"nutid": "opstår",
+			"datid": "opstod",
+			"førnutid": "er opstået",
+			"førdatid": "var opstået",
+			"bydem.": "opstå"
+		},
+		{
+			"navnem.": "optage",
+			"nutid": "optager",
+			"datid": "optog",
+			"førnutid": "har optaget",
+			"førdatid": "havde optaget",
+			"bydem.": "optag"
+		},
+		{
+			"navnem.": "optræde",
+			"nutid": "optræder",
+			"datid": "optrådte",
+			"førnutid": "har optrådt",
+			"førdatid": "havde optrådt",
+			"bydem.": "optræd"
+		},
+		{
+			"navnem.": "orientere",
+			"nutid": "orienterer",
+			"datid": "orienterede",
+			"førnutid": "har orienteret",
+			"førdatid": "havde orienteret",
+			"bydem.": "orienter"
+		},
+		{
+			"navnem.": "overbevise",
+			"nutid": "overbeviser",
+			"datid": "overbeviste",
+			"førnutid": "har overbevist",
+			"førdatid": "havde overbevist",
+			"bydem.": "overbevis"
+		},
+		{
+			"navnem.": "overføre",
+			"nutid": "overfører",
+			"datid": "overførte",
+			"førnutid": "har overført",
+			"førdatid": "havde overført",
+			"bydem.": "overfør"
+		},
+		{
+			"navnem.": "overholde",
+			"nutid": "overholder",
+			"datid": "overholdt",
+			"førnutid": "har overholdt",
+			"førdatid": "havde overholdt",
+			"bydem.": "overhold"
+		},
+		{
+			"navnem.": "overlade",
+			"nutid": "overlader",
+			"datid": "overlod",
+			"førnutid": "har overladt",
+			"førdatid": "havde overladt",
+			"bydem.": "overlad"
+		},
+		{
+			"navnem.": "overleve",
+			"nutid": "overlever",
+			"datid": "overlevede",
+			"førnutid": "har overlevet",
+			"førdatid": "havde overlevet",
+			"bydem.": "overlev"
+		},
+		{
+			"navnem.": "overraske",
+			"nutid": "overrasker",
+			"datid": "overraskede",
+			"førnutid": "har overrasket",
+			"førdatid": "havde overrasket",
+			"bydem.": "overrask"
+		},
+		{
+			"navnem.": "overtage",
+			"nutid": "overtager",
+			"datid": "overtog",
+			"førnutid": "har overtaget",
+			"førdatid": "havde overtaget",
+			"bydem.": "overtag"
+		},
+		{
+			"navnem.": "overveje",
+			"nutid": "overvejer",
+			"datid": "overvejede",
+			"førnutid": "har overvejet",
+			"førdatid": "havde overvejet",
+			"bydem.": "overvej"
+		},
+		{
+			"navnem.": "pakke",
+			"nutid": "pakker",
+			"datid": "pakkede",
+			"førnutid": "har pakket",
+			"førdatid": "havde pakket",
+			"bydem.": "pak"
+		},
+		{
+			"navnem.": "passe",
+			"nutid": "passer",
+			"datid": "passede",
+			"førnutid": "har passet",
+			"førdatid": "havde passet",
+			"bydem.": "pas"
+		},
+		{
+			"navnem.": "pege",
+			"nutid": "peger",
+			"datid": "pegede",
+			"førnutid": "har peget",
+			"førdatid": "havde peget",
+			"bydem.": "peg"
+		},
+		{
+			"navnem.": "placere",
+			"nutid": "placerer",
+			"datid": "placerede",
+			"førnutid": "har placeret",
+			"førdatid": "havde placeret",
+			"bydem.": "placer"
+		},
+		{
+			"navnem.": "planlægge",
+			"nutid": "planlægger",
+			"datid": "planlagde",
+			"førnutid": "har planlagt",
+			"førdatid": "havde planlagt",
+			"bydem.": "planlæg"
+		},
+		{
+			"navnem.": "pleje",
+			"nutid": "plejer",
+			"datid": "plejede",
+			"førnutid": "har plejet",
+			"førdatid": "havde plejet",
+			"bydem.": "plej"
+		},
+		{
+			"navnem.": "presse",
+			"nutid": "presser",
+			"datid": "pressede",
+			"førnutid": "har presset",
+			"førdatid": "havde presset",
+			"bydem.": "pres"
+		},
+		{
+			"navnem.": "producere",
+			"nutid": "producerer",
+			"datid": "producerede",
+			"førnutid": "har produceret",
+			"førdatid": "havde produceret",
+			"bydem.": "producer"
+		},
+		{
+			"navnem.": "præge",
+			"nutid": "præger",
+			"datid": "prægede",
+			"førnutid": "har præget",
+			"førdatid": "havde præget",
+			"bydem.": "præg"
+		},
+		{
+			"navnem.": "præsentere",
+			"nutid": "præsenterer",
+			"datid": "præsenterede",
+			"førnutid": "har præsenteret",
+			"førdatid": "havde præsenteret",
+			"bydem.": "præsenter"
+		},
+		{
+			"navnem.": "prøve",
+			"nutid": "prøver",
+			"datid": "prøvede",
+			"førnutid": "har prøvet",
+			"førdatid": "havde prøvet",
+			"bydem.": "prøv"
+		},
+		{
+			"navnem.": "pudse",
+			"nutid": "pudser",
+			"datid": "pudsede",
+			"førnutid": "har pudset",
+			"førdatid": "havde pudset",
+			"bydem.": "puds"
+		},
+		{
+			"navnem.": "påvirke",
+			"nutid": "påvirker",
+			"datid": "påvirkede",
+			"førnutid": "har påvirket",
+			"førdatid": "havde påvirket",
+			"bydem.": "påvirk"
+		},
+		{
+			"navnem.": "ramme",
+			"nutid": "rammer",
+			"datid": "ramte",
+			"førnutid": "har ramt",
+			"førdatid": "havde ramt",
+			"bydem.": "ram"
+		},
+		{
+			"navnem.": "reagere",
+			"nutid": "reagerer",
+			"datid": "reagerede",
+			"førnutid": "har reageret",
+			"førdatid": "havde reageret",
+			"bydem.": "reager"
+		},
+		{
+			"navnem.": "redde",
+			"nutid": "redder",
+			"datid": "reddede",
+			"førnutid": "har reddet",
+			"førdatid": "havde reddet",
+			"bydem.": "red"
+		},
+		{
+			"navnem.": "reducere",
+			"nutid": "reducerer",
+			"datid": "reducerede",
+			"førnutid": "har reduceret",
+			"førdatid": "havde reduceret",
+			"bydem.": "reducer"
+		},
+		{
+			"navnem.": "registrere",
+			"nutid": "registrerer",
+			"datid": "registrerede",
+			"førnutid": "har registreret",
+			"førdatid": "havde registreret",
+			"bydem.": "registrer"
+		},
+		{
+			"navnem.": "regne",
+			"nutid": "regner",
+			"datid": "regnede",
+			"førnutid": "har regnet",
+			"førdatid": "havde regnet",
+			"bydem.": "regn"
+		},
+		{
+			"navnem.": "rejse",
+			"nutid": "rejser",
+			"datid": "rejste",
+			"førnutid": "har /",
+			"førdatid": "er rejst",
+			"bydem.": "havde" / var rejst rejs
+		},
+		{
+			"navnem.": "rense",
+			"nutid": "renser",
+			"datid": "rensede",
+			"førnutid": "har renset",
+			"førdatid": "havde renset",
+			"bydem.": "rens"
+		},
+		{
+			"navnem.": "repræsentere",
+			"nutid": "repræsenterer",
+			"datid": "repræsenterede",
+			"førnutid": "har repræsen",
+			"førdatid":-"teret havde",
+			"bydem.": "repræsen"-teret repræsen-ter
+		},
+		{
+			"navnem.": "respektere",
+			"nutid": "respekterer",
+			"datid": "respekterede",
+			"førnutid": "har respekteret",
+			"førdatid": "havde respekteret",
+			"bydem.": "respekter"
+		},
+		{
+			"navnem.": "rette",
+			"nutid": "retter",
+			"datid": "rettede",
+			"førnutid": "har rettet",
+			"førdatid": "havde rettet",
+			"bydem.": "ret"
+		},
+		{
+			"navnem.": "ride",
+			"nutid": "rider",
+			"datid": "red",
+			"førnutid": "har redet",
+			"førdatid": "havde redet",
+			"bydem.": "rid"
+		},
+		{
+			"navnem.": "ringe",
+			"nutid": "ringer",
+			"datid": "ringede",
+			"førnutid": "har ringet",
+			"førdatid": "havde ringet",
+			"bydem.": "ring"
+		},
+		{
+			"navnem.": "risikere",
+			"nutid": "risikerer",
+			"datid": "risikerede",
+			"førnutid": "har risikeret",
+			"førdatid": "havde risikeret",
+			"bydem.": "risiker"
+		},
+		{
+			"navnem.": "rive",
+			"nutid": "river",
+			"datid": "rev",
+			"førnutid": "har revet",
+			"førdatid": "havde revet",
+			"bydem.": "riv"
+		},
+		{
+			"navnem.": "rose",
+			"nutid": "roser",
+			"datid": "roste",
+			"førnutid": "har rost",
+			"førdatid": "havde rost",
+			"bydem.": "ros"
+		},
+		{
+			"navnem.": "rulle",
+			"nutid": "ruller",
+			"datid": "rullede",
+			"førnutid": "har /",
+			"førdatid": "er rullet",
+			"bydem.": "havde" / var rullet rul
+		},
+		{
+			"navnem.": "rumme",
+			"nutid": "rummer",
+			"datid": "rummede",
+			"førnutid": "har rummet",
+			"førdatid": "havde rummet",
+			"bydem.": "rum"
+		},
+		{
+			"navnem.": "rydde",
+			"nutid": "rydder",
+			"datid": "ryddede",
+			"førnutid": "har ryddet",
+			"førdatid": "havde ryddet",
+			"bydem.": "ryd"
+		},
+		{
+			"navnem.": "ryge",
+			"nutid": "ryger",
+			"datid": "røg",
+			"førnutid": "har røget",
+			"førdatid": "havde røget",
+			"bydem.": "ryg"
+		},
+		{
+			"navnem.": "rykke",
+			"nutid": "rykker",
+			"datid": "rykkede",
+			"førnutid": "har rykket",
+			"førdatid": "havde rykket",
+			"bydem.": "ryk"
+		},
+		{
+			"navnem.": "ryste",
+			"nutid": "ryster",
+			"datid": "rystede",
+			"førnutid": "har rystet",
+			"førdatid": "havde rystet",
+			"bydem.": "ryst"
+		},
+		{
+			"navnem.": "række",
+			"nutid": "rækker",
+			"datid": "rakte",
+			"førnutid": "har rakt",
+			"førdatid": "havde rakt",
+			"bydem.": "ræk"
+		},
+		{
+			"navnem.": "røre",
+			"nutid": "rører",
+			"datid": "rørte",
+			"førnutid": "har rørt",
+			"førdatid": "havde rørt",
+			"bydem.": "rør"
+		},
+		{
+			"navnem.": "råbe",
+			"nutid": "råber",
+			"datid": "råbte",
+			"førnutid": "har råbt",
+			"førdatid": "havde råbt",
+			"bydem.": "råb"
+		},
+		{
+			"navnem.": "råde",
+			"nutid": "råder",
+			"datid": "rådede",
+			"førnutid": "har rådet",
+			"førdatid": "havde rådet",
+			"bydem.": "råd"
+		},
+		{
+			"navnem.": "samle",
+			"nutid": "samler",
+			"datid": "samlede",
+			"førnutid": "har samlet",
+			"førdatid": "havde samlet",
+			"bydem.": "saml"
+		},
+		{
+			"navnem.": "sammenligne",
+			"nutid": "sammenligner",
+			"datid": "sammenlignede",
+			"førnutid": "har sammen",
+			"førdatid":-"lignet havde",
+			"bydem.": "sammen"-lignet sammen-lign
+		},
+		{
+			"navnem.": "satse",
+			"nutid": "satser",
+			"datid": "satsede",
+			"førnutid": "har satset",
+			"førdatid": "havde satset",
+			"bydem.": "sats"
+		},
+		{
+			"navnem.": "savne",
+			"nutid": "savner",
+			"datid": "savnede",
+			"førnutid": "har savnet",
+			"førdatid": "havde savnet",
+			"bydem.": "savn"
+		},
+		{
+			"navnem.": "se",
+			"nutid": "ser",
+			"datid": "så",
+			"førnutid": "har set",
+			"førdatid": "havde set",
+			"bydem.": "se"
+		},
+		{
+			"navnem.": "sejle",
+			"nutid": "sejler",
+			"datid": "sejlede",
+			"førnutid": "har sejlet",
+			"førdatid": "havde sejlet",
+			"bydem.": "sejl"
+		},
+		{
+			"navnem.": "sende",
+			"nutid": "sender",
+			"datid": "sendte",
+			"førnutid": "har sendt",
+			"førdatid": "havde sendt",
+			"bydem.": "send"
+		},
+		{
+			"navnem.": "servere",
+			"nutid": "serverer",
+			"datid": "serverede",
+			"førnutid": "har serveret",
+			"førdatid": "havde serveret",
+			"bydem.": "server"
+		},
+		{
+			"navnem.": "ses",
+			"nutid": "ses",
+			"datid": "sås",
+			"førnutid": "har sets",
+			"førdatid": "havde sets",
+			"bydem.": null
+		},
+		{
+			"navnem.": "sidde",
+			"nutid": "sidder",
+			"datid": "sad",
+			"førnutid": "har siddet",
+			"førdatid": "havde siddet",
+			"bydem.": "sid"
+		},
+		{
+			"navnem.": "sige",
+			"nutid": "siger",
+			"datid": "sagde",
+			"førnutid": "har sagt",
+			"førdatid": "havde sagt",
+			"bydem.": "sig"
+		},
+		{
+			"navnem.": "sikre",
+			"nutid": "sikrer",
+			"datid": "sikrede",
+			"førnutid": "har sikret",
+			"førdatid": "havde sikret",
+			"bydem.": "sikr"
+		},
+		{
+			"navnem.": "skabe",
+			"nutid": "skaber",
+			"datid": "skabte",
+			"førnutid": "har skabt",
+			"førdatid": "havde skabt",
+			"bydem.": "skab"
+		},
+		{
+			"navnem.": "skade",
+			"nutid": "skader",
+			"datid": "skadede",
+			"førnutid": "har skadet",
+			"førdatid": "havde skadet",
+			"bydem.": "skad"
+		},
+		{
+			"navnem.": "skaffe",
+			"nutid": "skaffer",
+			"datid": "skaffede",
+			"førnutid": "har skaffet",
+			"førdatid": "havde skaffet",
+			"bydem.": "skaf"
+		},
+		{
+			"navnem.": "ske",
+			"nutid": "sker",
+			"datid": "skete",
+			"førnutid": "er sket",
+			"førdatid": "var sket",
+			"bydem.": "ske"
+		},
+		{
+			"navnem.": "skifte",
+			"nutid": "skifter",
+			"datid": "skiftede",
+			"førnutid": "har skiftet",
+			"førdatid": "havde skiftet",
+			"bydem.": "skift"
+		},
+		{
+			"navnem.": "skinne",
+			"nutid": "skinner",
+			"datid": "skinnede",
+			"førnutid": "har skinnet",
+			"førdatid": "havde skinnet",
+			"bydem.": "skin"
+		},
+		{
+			"navnem.": "skjule",
+			"nutid": "skjuler",
+			"datid": "skjulte",
+			"førnutid": "har skjult",
+			"førdatid": "havde skjult",
+			"bydem.": "skjul"
+		},
+		{
+			"navnem.": "skrige",
+			"nutid": "skriger",
+			"datid": "skreg",
+			"førnutid": "har skreget",
+			"førdatid": "havde skreget",
+			"bydem.": "skrig"
+		},
+		{
+			"navnem.": "skrive",
+			"nutid": "skriver",
+			"datid": "skrev",
+			"førnutid": "har skrevet",
+			"førdatid": "havde skrevet",
+			"bydem.": "skriv"
+		},
+		{
+			"navnem.": "skræmme",
+			"nutid": "skræmmer",
+			"datid": "skræmte",
+			"førnutid": "har skræmt",
+			"førdatid": "havde skræmt",
+			"bydem.": "skræm"
+		},
+		{
+			"navnem.": "skubbe",
+			"nutid": "skubber",
+			"datid": "skubbede",
+			"førnutid": "har skubbet",
+			"førdatid": "havde skubbet",
+			"bydem.": "skub"
+		},
+		{
+			"navnem.": "skuffe",
+			"nutid": "skuffer",
+			"datid": "skuffede",
+			"førnutid": "har skuffet",
+			"førdatid": "havde skuffet",
+			"bydem.": "skuf"
+		},
+		{
+			"navnem.": "skulle",
+			"nutid": "skal",
+			"datid": "skulle",
+			"førnutid": "har skullet",
+			"førdatid": "havde skullet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "skyde",
+			"nutid": "skyder",
+			"datid": "skød",
+			"førnutid": "har skudt",
+			"førdatid": "havde skudt",
+			"bydem.": "skyd"
+		},
+		{
+			"navnem.": "skyldes",
+			"nutid": "skyldes",
+			"datid": "skyldtes",
+			"førnutid": "har skyldtes",
+			"førdatid": "havde skyldtes",
+			"bydem.": null
+		},
+		{
+			"navnem.": "skære",
+			"nutid": "skærer",
+			"datid": "skar",
+			"førnutid": "har skåret",
+			"førdatid": "havde skåret",
+			"bydem.": "skær"
+		},
+		{
+			"navnem.": "slippe",
+			"nutid": "slipper",
+			"datid": "slap",
+			"førnutid": "har /",
+			"førdatid": "ersluppet havde",
+			"bydem.": "/" var sluppet slip
+		},
+		{
+			"navnem.": "slukke",
+			"nutid": "slukker",
+			"datid": "slukkede",
+			"førnutid": "er slukket",
+			"førdatid": "var slukket",
+			"bydem.": "sluk"
+		},
+		{
+			"navnem.": "slutte",
+			"nutid": "slutter",
+			"datid": "sluttede",
+			"førnutid": "er sluttet",
+			"førdatid": "var sluttet",
+			"bydem.": "slut"
+		},
+		{
+			"navnem.": "slå",
+			"nutid": "slår",
+			"datid": "slog",
+			"førnutid": "har slået",
+			"førdatid": "havde slået",
+			"bydem.": "slå"
+		},
+		{
+			"navnem.": "slås",
+			"nutid": "slås",
+			"datid": "sloges",
+			"førnutid": "har sloges",
+			"førdatid": "havde sloges",
+			"bydem.": "slås"
+		},
+		{
+			"navnem.": "smage",
+			"nutid": "smager",
+			"datid": "smagte",
+			"førnutid": "har smagt",
+			"førdatid": "havde smagt",
+			"bydem.": "smag"
+		},
+		{
+			"navnem.": "smide",
+			"nutid": "smider",
+			"datid": "smed",
+			"førnutid": "har smidt",
+			"førdatid": "havde smidt",
+			"bydem.": "smid"
+		},
+		{
+			"navnem.": "smile",
+			"nutid": "smiler",
+			"datid": "smilede",
+			"førnutid": "har smilet",
+			"førdatid": "havde smilet",
+			"bydem.": "smil"
+		},
+		{
+			"navnem.": "smitte",
+			"nutid": "smitter",
+			"datid": "smittede",
+			"førnutid": "har smittet",
+			"førdatid": "havde smittet",
+			"bydem.": "smit"
+		},
+		{
+			"navnem.": "snakke",
+			"nutid": "snakker",
+			"datid": "snakkede",
+			"førnutid": "har snakket",
+			"førdatid": "havde snakket",
+			"bydem.": "snak"
+		},
+		{
+			"navnem.": "sove",
+			"nutid": "sover",
+			"datid": "sov",
+			"førnutid": "har sovet",
+			"førdatid": "havde sovet",
+			"bydem.": "sov"
+		},
+		{
+			"navnem.": "spare",
+			"nutid": "sparer",
+			"datid": "sparede",
+			"førnutid": "har sparet",
+			"førdatid": "havde sparet",
+			"bydem.": "spar"
+		},
+		{
+			"navnem.": "spille",
+			"nutid": "spiller",
+			"datid": "spillede",
+			"førnutid": "har spillet",
+			"førdatid": "havde spillet",
+			"bydem.": "spil"
+		},
+		{
+			"navnem.": "spise",
+			"nutid": "spiser",
+			"datid": "spiste",
+			"førnutid": "har spist",
+			"førdatid": "havde spist",
+			"bydem.": "spis"
+		},
+		{
+			"navnem.": "sprede",
+			"nutid": "spreder",
+			"datid": "spredte",
+			"førnutid": "har spredt",
+			"førdatid": "havde spredt",
+			"bydem.": "spred"
+		},
+		{
+			"navnem.": "springe",
+			"nutid": "springer",
+			"datid": "sprang",
+			"førnutid": "har /",
+			"førdatid": "er sprunget",
+			"bydem.": "havde" / var sprunget spring
+		},
+		{
+			"navnem.": "spørge",
+			"nutid": "spørger",
+			"datid": "spurgte",
+			"førnutid": "har spurgt",
+			"førdatid": "havde spurgt",
+			"bydem.": "spørg"
+		},
+		{
+			"navnem.": "stamme",
+			"nutid": "stammer",
+			"datid": "stammede",
+			"førnutid": "har stammet",
+			"førdatid": "havde stammet",
+			"bydem.": "stam"
+		},
+		{
+			"navnem.": "standse",
+			"nutid": "standser",
+			"datid": "standsede",
+			"førnutid": "har /",
+			"førdatid": "er standset",
+			"bydem.": "havde" / var standset stands
+		},
+		{
+			"navnem.": "starte",
+			"nutid": "starter",
+			"datid": "startede",
+			"førnutid": "har /",
+			"førdatid": "er startet",
+			"bydem.": "havde" / var startet start
+		},
+		{
+			"navnem.": "stemme",
+			"nutid": "stemmer",
+			"datid": "stemte",
+			"førnutid": "har stemt",
+			"førdatid": "havde stemt",
+			"bydem.": "stem"
+		},
+		{
+			"navnem.": "stege",
+			"nutid": "steger",
+			"datid": "stegte",
+			"førnutid": "har stegt",
+			"førdatid": "havde stegt",
+			"bydem.": "steg"
+		},
+		{
+			"navnem.": "stige",
+			"nutid": "stiger",
+			"datid": "steg",
+			"førnutid": "er steget",
+			"førdatid": "var steget",
+			"bydem.": "stig"
+		},
+		{
+			"navnem.": "stikke",
+			"nutid": "stikker",
+			"datid": "stak",
+			"førnutid": "har stukket",
+			"førdatid": "havde stukket",
+			"bydem.": "stik"
+		},
+		{
+			"navnem.": "stikke",
+			"nutid": "af",
+			"datid": "stikker",
+			"førnutid": "af stak",
+			"førdatid": "af er",
+			"bydem.": "stukket" af var stukket af stik af
+		},
+		{
+			"navnem.": "stille",
+			"nutid": "stiller",
+			"datid": "stillede",
+			"førnutid": "har stillet",
+			"førdatid": "havde stillet",
+			"bydem.": "stil"
+		},
+		{
+			"navnem.": "stjæle",
+			"nutid": "stjæler",
+			"datid": "stjal",
+			"førnutid": "har stjålet",
+			"førdatid": "havde stjålet",
+			"bydem.": "stjæl"
+		},
+		{
+			"navnem.": "stole",
+			"nutid": "på",
+			"datid": "stoler",
+			"førnutid": "på stolede",
+			"førdatid": "på har",
+			"bydem.": "stolet" på havde stolet på stol på
+		},
+		{
+			"navnem.": "stoppe",
+			"nutid": "stopper",
+			"datid": "stoppede",
+			"førnutid": "har /",
+			"førdatid": "er stoppet",
+			"bydem.": "havde" / var stoppet stop
+		},
+		{
+			"navnem.": "straffe",
+			"nutid": "straffer",
+			"datid": "straffede",
+			"førnutid": "har straffet",
+			"førdatid": "havde straffet",
+			"bydem.": "straf"
+		},
+		{
+			"navnem.": "stramme",
+			"nutid": "strammer",
+			"datid": "strammede",
+			"førnutid": "har strammet",
+			"førdatid": "havde strammet",
+			"bydem.": "stram"
+		},
+		{
+			"navnem.": "strække",
+			"nutid": "strækker",
+			"datid": "strakte",
+			"førnutid": "har strakt",
+			"førdatid": "havde strakt",
+			"bydem.": "stræk"
+		},
+		{
+			"navnem.": "studere",
+			"nutid": "studerer",
+			"datid": "studerede",
+			"førnutid": "har studeret",
+			"førdatid": "havde studeret",
+			"bydem.": "studer"
+		},
+		{
+			"navnem.": "styre",
+			"nutid": "styrer",
+			"datid": "styrede",
+			"førnutid": "har styret",
+			"førdatid": "havde styret",
+			"bydem.": "styr"
+		},
+		{
+			"navnem.": "styrke",
+			"nutid": "styrker",
+			"datid": "styrkede",
+			"førnutid": "har styrket",
+			"førdatid": "havde styrket",
+			"bydem.": "styrk"
+		},
+		{
+			"navnem.": "støde",
+			"nutid": "støder",
+			"datid": "stødte",
+			"førnutid": "har stødt",
+			"førdatid": "havde stødt",
+			"bydem.": "stød"
+		},
+		{
+			"navnem.": "støde",
+			"nutid": "på",
+			"datid": "støder",
+			"førnutid": "på stødte",
+			"førdatid": "på er",
+			"bydem.": "stødt" på var stødt på stød på
+		},
+		{
+			"navnem.": "støtte",
+			"nutid": "støtter",
+			"datid": "støttede",
+			"førnutid": "har støttet",
+			"førdatid": "havde støttet",
+			"bydem.": "støt"
+		},
+		{
+			"navnem.": "stå",
+			"nutid": "står",
+			"datid": "stod",
+			"førnutid": "har stået",
+			"førdatid": "havde stået",
+			"bydem.": "stå"
+		},
+		{
+			"navnem.": "stå",
+			"nutid": "op",
+			"datid": "står",
+			"førnutid": "op stod",
+			"førdatid": "op er",
+			"bydem.": "stået" op var stået op stå op
+		},
+		{
+			"navnem.": "svare",
+			"nutid": "svarer",
+			"datid": "svarede",
+			"førnutid": "har svaret",
+			"førdatid": "havde svaret",
+			"bydem.": "svar"
+		},
+		{
+			"navnem.": "svigte",
+			"nutid": "svigter",
+			"datid": "svigtede",
+			"førnutid": "har sviget",
+			"førdatid": "havde svigtet",
+			"bydem.": "svigt"
+		},
+		{
+			"navnem.": "svinge",
+			"nutid": "svinger",
+			"datid": "svingede",
+			"førnutid": "har svinget",
+			"førdatid": "havde svinget",
+			"bydem.": "sving"
+		},
+		{
+			"navnem.": "sy",
+			"nutid": "syr",
+			"datid": "syede",
+			"førnutid": "har syet",
+			"førdatid": "havde syet",
+			"bydem.": "sy"
+		},
+		{
+			"navnem.": "synes",
+			"nutid": "synes",
+			"datid": "syntes",
+			"førnutid": "har syntes",
+			"førdatid": "havde syntes",
+			"bydem.": "synes"
+		},
+		{
+			"navnem.": "synge",
+			"nutid": "synger",
+			"datid": "sang",
+			"førnutid": "har sunget",
+			"førdatid": "havde sunget",
+			"bydem.": "syng"
+		},
+		{
+			"navnem.": "synke",
+			"nutid": "synker",
+			"datid": "sank",
+			"førnutid": "er sunket",
+			"førdatid": "var sunket",
+			"bydem.": "synk"
+		},
+		{
+			"navnem.": "sælge",
+			"nutid": "sælger",
+			"datid": "solgte",
+			"førnutid": "har solgt",
+			"førdatid": "havde solgt",
+			"bydem.": "sælg"
+		},
+		{
+			"navnem.": "sænke",
+			"nutid": "sænker",
+			"datid": "sænkede",
+			"førnutid": "har sænket",
+			"førdatid": "havde sænket",
+			"bydem.": "sænk"
+		},
+		{
+			"navnem.": "sætte",
+			"nutid": "sætter",
+			"datid": "satte",
+			"førnutid": "har sat",
+			"førdatid": "havde sat",
+			"bydem.": "sæt"
+		},
+		{
+			"navnem.": "søge",
+			"nutid": "søger",
+			"datid": "søgte",
+			"førnutid": "har søgt",
+			"førdatid": "havde søgt",
+			"bydem.": "søg"
+		},
+		{
+			"navnem.": "sørge",
+			"nutid": "for",
+			"datid": "sørger",
+			"førnutid": "for sørgede",
+			"førdatid": "for har",
+			"bydem.": "sørget" for havde sørget for sørg for
+		},
+		{
+			"navnem.": "tabe",
+			"nutid": "taber",
+			"datid": "tabte",
+			"førnutid": "har tabt",
+			"førdatid": "havde tabt",
+			"bydem.": "tab"
+		},
+		{
+			"navnem.": "tage",
+			"nutid": "tager",
+			"datid": "tog",
+			"førnutid": "har taget",
+			"førdatid": "havde taget",
+			"bydem.": "tag"
+		},
+		{
+			"navnem.": "tage",
+			"nutid": "hjem",
+			"datid": "tager",
+			"førnutid": "hjem tog",
+			"førdatid": "hjem er",
+			"bydem.": "taget" hjem var taget hjem tag hjem
+		},
+		{
+			"navnem.": "takke",
+			"nutid": "takker",
+			"datid": "takkede",
+			"førnutid": "har takket",
+			"førdatid": "havde takket",
+			"bydem.": "tak"
+		},
+		{
+			"navnem.": "tale",
+			"nutid": "taler",
+			"datid": "talte",
+			"førnutid": "har talt",
+			"førdatid": "havde talt",
+			"bydem.": "tal"
+		},
+		{
+			"navnem.": "tegne",
+			"nutid": "tegner",
+			"datid": "tegnede",
+			"førnutid": "har tegnet",
+			"førdatid": "havde tegnet",
+			"bydem.": "tegn"
+		},
+		{
+			"navnem.": "tilbringe",
+			"nutid": "tilbringer",
+			"datid": "tilbragte",
+			"førnutid": "har tilbragt",
+			"førdatid": "havde tilbragt",
+			"bydem.": "tilbring"
+		},
+		{
+			"navnem.": "tilbyde",
+			"nutid": "tilbyder",
+			"datid": "tilbød",
+			"førnutid": "har tilbudt",
+			"førdatid": "havde tilbudt",
+			"bydem.": "tilbyd"
+		},
+		{
+			"navnem.": "tilføje",
+			"nutid": "tilføjer",
+			"datid": "tilføjede",
+			"førnutid": "har tilføjet",
+			"førdatid": "havde tilføjet",
+			"bydem.": "tilføj"
+		},
+		{
+			"navnem.": "tilhøre",
+			"nutid": "tilhører",
+			"datid": "tilhørte",
+			"førnutid": "har tilhørt",
+			"førdatid": "havde tilhørt",
+			"bydem.": null
+		},
+		{
+			"navnem.": "tillade",
+			"nutid": "tillader",
+			"datid": "tillod",
+			"førnutid": "har tilladt",
+			"førdatid": "havde tilladt",
+			"bydem.": "tillad"
+		},
+		{
+			"navnem.": "tjene",
+			"nutid": "tjener",
+			"datid": "tjente",
+			"førnutid": "har tjent",
+			"førdatid": "havde tjent",
+			"bydem.": "tjen"
+		},
+		{
+			"navnem.": "tro",
+			"nutid": "tror",
+			"datid": "troede",
+			"førnutid": "har troet",
+			"førdatid": "havde troet",
+			"bydem.": "tro"
+		},
+		{
+			"navnem.": "true",
+			"nutid": "truer",
+			"datid": "truede",
+			"førnutid": "har truet",
+			"førdatid": "havde truet",
+			"bydem.": "tru"
+		},
+		{
+			"navnem.": "trykke",
+			"nutid": "trykker",
+			"datid": "trykkede",
+			"førnutid": "har trykket",
+			"førdatid": "havde trykket",
+			"bydem.": "tryk"
+		},
+		{
+			"navnem.": "træde",
+			"nutid": "træder",
+			"datid": "trådte",
+			"førnutid": "har trådt",
+			"førdatid": "havde trådt",
+			"bydem.": "træd"
+		},
+		{
+			"navnem.": "træffe",
+			"nutid": "træffer",
+			"datid": "traf",
+			"førnutid": "har truffet",
+			"førdatid": "havde truffet",
+			"bydem.": "træf"
+		},
+		{
+			"navnem.": "trække",
+			"nutid": "trækker",
+			"datid": "trak",
+			"førnutid": "har trukket",
+			"førdatid": "havde trukket",
+			"bydem.": "træk"
+		},
+		{
+			"navnem.": "trænge",
+			"nutid": "trænger",
+			"datid": "trængte",
+			"førnutid": "har trængt",
+			"førdatid": "havde trængt",
+			"bydem.": "træng"
+		},
+		{
+			"navnem.": "trænge",
+			"nutid": "ind",
+			"datid": "trænger",
+			"førnutid": "ind trængte",
+			"førdatid": "ind er",
+			"bydem.": "trængt" ind var trængt ind træng ind
+		},
+		{
+			"navnem.": "turde",
+			"nutid": "tør",
+			"datid": "turde",
+			"førnutid": "har turdet",
+			"førdatid": "havde turdet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "tvinge",
+			"nutid": "tvinger",
+			"datid": "tvang",
+			"førnutid": "har tvunget",
+			"førdatid": "havde tvunget",
+			"bydem.": "tving"
+		},
+		{
+			"navnem.": "tyde",
+			"nutid": "tyder",
+			"datid": "tydede",
+			"førnutid": "har tydet",
+			"førdatid": "havde tydet",
+			"bydem.": "tyd"
+		},
+		{
+			"navnem.": "tælle",
+			"nutid": "tæller",
+			"datid": "talte",
+			"førnutid": "har talt",
+			"førdatid": "havde talt",
+			"bydem.": "tæl"
+		},
+		{
+			"navnem.": "tænde",
+			"nutid": "tænder",
+			"datid": "tændte",
+			"førnutid": "har tændt",
+			"førdatid": "havde tændt",
+			"bydem.": "tænd"
+		},
+		{
+			"navnem.": "tænke",
+			"nutid": "tænker",
+			"datid": "tænkte",
+			"førnutid": "har tænkt",
+			"førdatid": "havde tænkt",
+			"bydem.": "tænk"
+		},
+		{
+			"navnem.": "tømme",
+			"nutid": "tømmer",
+			"datid": "tømte",
+			"førnutid": "har tømt",
+			"førdatid": "havde tømt",
+			"bydem.": "tøm"
+		},
+		{
+			"navnem.": "tørre",
+			"nutid": "tørrer",
+			"datid": "tørrede",
+			"førnutid": "har tørret",
+			"førdatid": "havde tørret",
+			"bydem.": "tør"
+		},
+		{
+			"navnem.": "tåle",
+			"nutid": "tåler",
+			"datid": "tålte",
+			"førnutid": "har tålt",
+			"førdatid": "havde tålt",
+			"bydem.": "tål"
+		},
+		{
+			"navnem.": "udarbejde",
+			"nutid": "udarbejder",
+			"datid": "udarbejdede",
+			"førnutid": "har udarbejdet",
+			"førdatid": "havde udarbejdet",
+			"bydem.": "udarbejd"
+		},
+		{
+			"navnem.": "udbrede",
+			"nutid": "udbreder",
+			"datid": "udbredte",
+			"førnutid": "har udbredt",
+			"førdatid": "havde udbredt",
+			"bydem.": "udbred"
+		},
+		{
+			"navnem.": "uddanne",
+			"nutid": "uddanner",
+			"datid": "uddannede",
+			"førnutid": "har uddannet",
+			"førdatid": "havde uddannet",
+			"bydem.": "uddan"
+		},
+		{
+			"navnem.": "udelukke",
+			"nutid": "udelukker",
+			"datid": "udelukkede",
+			"førnutid": "har udelukket",
+			"førdatid": "havde udelukket",
+			"bydem.": "udeluk"
+		},
+		{
+			"navnem.": "udføre",
+			"nutid": "udfører",
+			"datid": "udførte",
+			"førnutid": "har udført",
+			"førdatid": "havde udført",
+			"bydem.": "udfør"
+		},
+		{
+			"navnem.": "udgive",
+			"nutid": "udgiver",
+			"datid": "udgav",
+			"førnutid": "har udgivet",
+			"førdatid": "havde udgivet",
+			"bydem.": "udgiv"
+		},
+		{
+			"navnem.": "udgøre",
+			"nutid": "udgør",
+			"datid": "udgjorde",
+			"førnutid": "har udgjort",
+			"førdatid": "havde udgjort",
+			"bydem.": "udgør"
+		},
+		{
+			"navnem.": "udkomme",
+			"nutid": "udkommer",
+			"datid": "udkom",
+			"førnutid": "er udkommet",
+			"førdatid": "var udkommet",
+			"bydem.": null
+		},
+		{
+			"navnem.": "udlevere",
+			"nutid": "udleverer",
+			"datid": "udleverede",
+			"førnutid": "har udleveret",
+			"førdatid": "havde udleveret",
+			"bydem.": "udlever"
+		},
+		{
+			"navnem.": "udløse",
+			"nutid": "udløser",
+			"datid": "udløste",
+			"førnutid": "har udløst",
+			"førdatid": "havde udløst",
+			"bydem.": "udløs"
+		},
+		{
+			"navnem.": "udnytte",
+			"nutid": "udnytter",
+			"datid": "udnyttede",
+			"førnutid": "har udnyttet",
+			"førdatid": "havde udnyttet",
+			"bydem.": "udnyt"
+		},
+		{
+			"navnem.": "udstyre",
+			"nutid": "udstyrer",
+			"datid": "udstyrede",
+			"førnutid": "har udstyret",
+			"førdatid": "havde udstyret",
+			"bydem.": "udstyr"
+		},
+		{
+			"navnem.": "udsætte",
+			"nutid": "udsætter",
+			"datid": "udsatte",
+			"førnutid": "har udsat",
+			"førdatid": "havde udsat",
+			"bydem.": "udsæt"
+		},
+		{
+			"navnem.": "udtale",
+			"nutid": "udtaler",
+			"datid": "udtalte",
+			"førnutid": "har udtalt",
+			"førdatid": "havde udtalt",
+			"bydem.": "udtal"
+		},
+		{
+			"navnem.": "udtrykke",
+			"nutid": "udtrykker",
+			"datid": "udtrykte",
+			"førnutid": "har udtrykt",
+			"førdatid": "havde udtrykt",
+			"bydem.": "udtryk"
+		},
+		{
+			"navnem.": "udvide",
+			"nutid": "udvider",
+			"datid": "uvidede",
+			"førnutid": "har udvidet",
+			"førdatid": "havde udvidet",
+			"bydem.": "udvid"
+		},
+		{
+			"navnem.": "udvikle",
+			"nutid": "udvikler",
+			"datid": "udviklede",
+			"førnutid": "har udviklet",
+			"førdatid": "havde udviklet",
+			"bydem.": "udvikl"
+		},
+		{
+			"navnem.": "underholde",
+			"nutid": "underholder",
+			"datid": "underholdt",
+			"førnutid": "har underholdt",
+			"førdatid": "havde underholdt",
+			"bydem.": "underhold"
+		},
+		{
+			"navnem.": "understrege",
+			"nutid": "under",
+			"datid": "streger",
+			"førnutid": "understregede har",
+			"førdatid": "under-streget",
+			"bydem.": "havde" under-streget under-streg
+		},
+		{
+			"navnem.": "undersøge",
+			"nutid": "undersøger",
+			"datid": "undersøgte",
+			"førnutid": "har undersøgt",
+			"førdatid": "havde undersøgt",
+			"bydem.": "undersøg"
+		},
+		{
+			"navnem.": "undgå",
+			"nutid": "undgår",
+			"datid": "undgik",
+			"førnutid": "har undgået",
+			"førdatid": "havde undgået",
+			"bydem.": "undgå"
+		},
+		{
+			"navnem.": "undre",
+			"nutid": "sig",
+			"datid": "undrer",
+			"førnutid": "sig undrede",
+			"førdatid": "sig har",
+			"bydem.": "undret" sig havde undret sig undr dig
+		},
+		{
+			"navnem.": "vaccinere",
+			"nutid": "vaccinerer",
+			"datid": "vaccinerede",
+			"førnutid": "har vaccineret",
+			"førdatid": "havde vaccineret",
+			"bydem.": "vacciner"
+		},
+		{
+			"navnem.": "vare",
+			"nutid": "varer",
+			"datid": "varede",
+			"førnutid": "har varet",
+			"førdatid": "havde varet",
+			"bydem.": "var"
+		},
+		{
+			"navnem.": "variere",
+			"nutid": "varierer",
+			"datid": "varierede",
+			"førnutid": "har varieret",
+			"førdatid": "havde varieret",
+			"bydem.": "varier"
+		},
+		{
+			"navnem.": "vaske",
+			"nutid": "vasker",
+			"datid": "vaskede",
+			"førnutid": "har vasket",
+			"førdatid": "havde vasket",
+			"bydem.": "vask"
+		},
+		{
+			"navnem.": "vedtage",
+			"nutid": "vedtager",
+			"datid": "vedtog",
+			"førnutid": "har vedtaget",
+			"førdatid": "havde vedtaget",
+			"bydem.": "vedtag"
+		},
+		{
+			"navnem.": "veje",
+			"nutid": "vejer",
+			"datid": "vejede",
+			"førnutid": "har vejet",
+			"førdatid": "havde vejet",
+			"bydem.": "vej"
+		},
+		{
+			"navnem.": "vende",
+			"nutid": "vender",
+			"datid": "vendte",
+			"førnutid": "har vendt",
+			"førdatid": "havde vendt",
+			"bydem.": "vend"
+		},
+		{
+			"navnem.": "vente",
+			"nutid": "venter",
+			"datid": "ventede",
+			"førnutid": "har ventet",
+			"førdatid": "havde ventet",
+			"bydem.": "vent"
+		},
+		{
+			"navnem.": "vide",
+			"nutid": "ved",
+			"datid": "vidste",
+			"førnutid": "har vidst",
+			"førdatid": "havde vidst",
+			"bydem.": "vid"
+		},
+		{
+			"navnem.": "ville",
+			"nutid": "vil",
+			"datid": "ville",
+			"førnutid": "har villet",
+			"førdatid": "havde villet",
+			"bydem.": "vil"
+		},
+		{
+			"navnem.": "vinde",
+			"nutid": "vinder",
+			"datid": "vandt",
+			"førnutid": "har vundet",
+			"førdatid": "havde vundet",
+			"bydem.": "vind"
+		},
+		{
+			"navnem.": "virke",
+			"nutid": "virker",
+			"datid": "virkede",
+			"førnutid": "har virket",
+			"førdatid": "havde virket",
+			"bydem.": "virk"
+		},
+		{
+			"navnem.": "vise",
+			"nutid": "viser",
+			"datid": "viste",
+			"førnutid": "har vist",
+			"førdatid": "havde vist",
+			"bydem.": "vis"
+		},
+		{
+			"navnem.": "vokse",
+			"nutid": "vokser",
+			"datid": "voksede",
+			"førnutid": "er vokset",
+			"førdatid": "var vokset",
+			"bydem.": "voks"
+		},
+		{
+			"navnem.": "vurdere",
+			"nutid": "vurderer",
+			"datid": "vurderede",
+			"førnutid": "har vurderet",
+			"førdatid": "havde vurderet",
+			"bydem.": "vurder"
+		},
+		{
+			"navnem.": "vække",
+			"nutid": "vækker",
+			"datid": "vækkede",
+			"førnutid": "har vækket",
+			"førdatid": "havde vækket",
+			"bydem.": "væk"
+		},
+		{
+			"navnem.": "vælge",
+			"nutid": "vælger",
+			"datid": "valgte",
+			"førnutid": "har valgt",
+			"førdatid": "havde valgt",
+			"bydem.": "vælg"
+		},
+		{
+			"navnem.": "vælte",
+			"nutid": "vælter",
+			"datid": "væltede",
+			"førnutid": "har væltet",
+			"førdatid": "havde væltet",
+			"bydem.": "vælt"
+		},
+		{
+			"navnem.": "være",
+			"nutid": "er",
+			"datid": "var",
+			"førnutid": "har været",
+			"førdatid": "havde været",
+			"bydem.": "vær"
+		},
+		{
+			"navnem.": "vågne",
+			"nutid": "vågner",
+			"datid": "vågnede",
+			"førnutid": "er vågnet",
+			"førdatid": "var vågnet",
+			"bydem.": "vågn"
+		},
+		{
+			"navnem.": "yde",
+			"nutid": "yder",
+			"datid": "ydede",
+			"førnutid": "har ydet",
+			"førdatid": "havde ydet",
+			"bydem.": "yd"
+		},
+		{
+			"navnem.": "ændre",
+			"nutid": "ændrer",
+			"datid": "ændrede",
+			"førnutid": "har ændret",
+			"førdatid": "havde ændret",
+			"bydem.": "ændr"
+		},
+		{
+			"navnem.": "ødelægge",
+			"nutid": "ødelægger",
+			"datid": "ødelagde",
+			"førnutid": "har ødelagt",
+			"førdatid": "havde ødelagt",
+			"bydem.": "ødelæg"
+		},
+		{
+			"navnem.": "øge",
+			"nutid": "øger",
+			"datid": "øgede",
+			"førnutid": "har øget",
+			"førdatid": "havde øget",
+			"bydem.": "øg"
+		},
+		{
+			"navnem.": "ønske",
+			"nutid": "ønsker",
+			"datid": "ønskede",
+			"førnutid": "har ønsket",
+			"førdatid": "havde ønsket",
+			"bydem.": "ønsk"
+		},
+		{
+			"navnem.": "åbne",
+			"nutid": "åbner",
+			"datid": "åbnede",
+			"førnutid": "har åbnet",
+			"førdatid": "havde åbnet",
+			"bydem.": "åbn"
+		}
+	]
+}
